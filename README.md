@@ -10,6 +10,30 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 ## Versions
 
 <!-- Tag Start -->
+
+#### `aws-github-actions` : [v0.2.0](https://github.com/clowdhaus/aws-github-actions/releases/tag/v0.2.0)
+
+<details>
+<summary>All Versions</summary>
+    <ul>
+        <li><a href="https://github.com/clowdhaus/aws-github-actions/releases/tag/v0.2.0">v0.2.0</a></li>
+	<li><a href="https://github.com/clowdhaus/aws-github-actions/releases/tag/v0.1.0">v0.1.0</a></li>
+    </ul>
+</details>
+    
+#### `a-new-module` : [v0.5.0](https://github.com/clowdhaus/a-new-module/releases/tag/v0.5.0)
+
+<details>
+<summary>All Versions</summary>
+    <ul>
+        <li><a href="https://github.com/clowdhaus/a-new-module/releases/tag/v0.5.0">v0.5.0</a></li>
+	<li><a href="https://github.com/clowdhaus/a-new-module/releases/tag/v0.4.0">v0.4.0</a></li>
+	<li><a href="https://github.com/clowdhaus/a-new-module/releases/tag/v0.3.0">v0.3.0</a></li>
+	<li><a href="https://github.com/clowdhaus/a-new-module/releases/tag/v0.2.0">v0.2.0</a></li>
+	<li><a href="https://github.com/clowdhaus/a-new-module/releases/tag/v0.1.0">v0.1.0</a></li>
+    </ul>
+</details>
+    
 <!-- Tag End -->
 
 ## Pull Requests
