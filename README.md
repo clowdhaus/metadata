@@ -53,5 +53,6 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 | --- | --- | --- | --- | --- |
 |clowdhaus/haus|[#1](https://api.github.com/repos/clowdhaus/haus/pulls/1)|dependabot/npm_and_yarn/acorn-6.4.1|dependabot[bot]|5|
 |clowdhaus/a-new-module|[#1](https://api.github.com/repos/clowdhaus/a-new-module/pulls/1)|feature/something-new|bryantbiggs|22|
+|clowdhaus/a-new-module|[#2](https://github.com/clowdhaus/a-new-module/pull/2)|boop|bryantbiggs|0|
 
 <!-- PR End -->
