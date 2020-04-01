@@ -52,10 +52,10 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 <!-- PR Start -->
 | Repository | PR | Branch | User | Age (days) |
 | --- | --- | --- | --- | --- |
-|clowdhaus/haus|[#1](https://api.github.com/repos/clowdhaus/haus/pulls/1)|dependabot/npm_and_yarn/acorn-6.4.1|dependabot[bot]|6|
-|clowdhaus/a-new-module|[#1](https://api.github.com/repos/clowdhaus/a-new-module/pulls/1)|feature/something-new|bryantbiggs|23|
-|clowdhaus/griddles|[#29](https://api.github.com/repos/clowdhaus/griddles/pulls/29)|dependabot/npm_and_yarn/fortawesome/fontawesome-pro-5.13.0|dependabot-preview[bot]|1|
-|clowdhaus/griddles|[#30](https://api.github.com/repos/clowdhaus/griddles/pulls/30)|dependabot/npm_and_yarn/fortawesome/fontawesome-svg-core-1.2.28|dependabot-preview[bot]|1|
-|clowdhaus/griddles|[#31](https://api.github.com/repos/clowdhaus/griddles/pulls/31)|dependabot/npm_and_yarn/fortawesome/free-brands-svg-icons-5.13.0|dependabot-preview[bot]|1|
+|clowdhaus/haus|[#1](https://api.github.com/repos/clowdhaus/haus/pulls/1)|dependabot/npm_and_yarn/acorn-6.4.1|dependabot[bot]|7|
+|clowdhaus/a-new-module|[#1](https://api.github.com/repos/clowdhaus/a-new-module/pulls/1)|feature/something-new|bryantbiggs|24|
+|clowdhaus/griddles|[#29](https://api.github.com/repos/clowdhaus/griddles/pulls/29)|dependabot/npm_and_yarn/fortawesome/fontawesome-pro-5.13.0|dependabot-preview[bot]|2|
+|clowdhaus/griddles|[#30](https://api.github.com/repos/clowdhaus/griddles/pulls/30)|dependabot/npm_and_yarn/fortawesome/fontawesome-svg-core-1.2.28|dependabot-preview[bot]|2|
+|clowdhaus/griddles|[#31](https://api.github.com/repos/clowdhaus/griddles/pulls/31)|dependabot/npm_and_yarn/fortawesome/free-brands-svg-icons-5.13.0|dependabot-preview[bot]|2|
 
 <!-- PR End -->
