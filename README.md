@@ -56,7 +56,7 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 |clowdhaus/git-mander|[#32](https://github.com/clowdhaus/git-mander/pull/32)|dependabot/cargo/git2-0.13.1|dependabot-preview[bot]|0|
 |clowdhaus/a-new-module|[#1](https://api.github.com/repos/clowdhaus/a-new-module/pulls/1)|feature/something-new|bryantbiggs|29|
 |clowdhaus/griddles|[#29](https://github.com/clowdhaus/griddles/pull/29)|dependabot/npm_and_yarn/fortawesome/fontawesome-pro-5.13.0|dependabot-preview[bot]|7|
-|clowdhaus/griddles|[#30](https://api.github.com/repos/clowdhaus/griddles/pulls/30)|dependabot/npm_and_yarn/fortawesome/fontawesome-svg-core-1.2.28|dependabot-preview[bot]|7|
+|clowdhaus/griddles|[#30](https://github.com/clowdhaus/griddles/pull/30)|dependabot/npm_and_yarn/fortawesome/fontawesome-svg-core-1.2.28|dependabot-preview[bot]|7|
 |clowdhaus/griddles|[#31](https://github.com/clowdhaus/griddles/pull/31)|dependabot/npm_and_yarn/fortawesome/free-brands-svg-icons-5.13.0|dependabot-preview[bot]|7|
 |clowdhaus/griddles|[#32](https://github.com/clowdhaus/griddles/pull/32)|dependabot/npm_and_yarn/buefy-0.8.15|dependabot-preview[bot]|0|
 |clowdhaus/bulwarks|[#55](https://github.com/clowdhaus/bulwarks/pull/55)|dependabot/pip/lambdas/botocore-approx-eq-1.15.36|dependabot-preview[bot]|0|
