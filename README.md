@@ -56,7 +56,6 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 |clowdhaus/claus|[#5](https://github.com/clowdhaus/claus/pull/5)|dependabot/go_modules/github.com/spf13/viper-1.6.3|dependabot-preview[bot]|0|
 |clowdhaus/a-new-module|[#1](https://api.github.com/repos/clowdhaus/a-new-module/pulls/1)|feature/something-new|bryantbiggs|36|
 |clowdhaus/griddles|[#33](https://github.com/clowdhaus/griddles/pull/33)|dependabot/npm_and_yarn/eslint-plugin-prettier-3.1.3|dependabot-preview[bot]|0|
-|clowdhaus/griddles|[#34](https://github.com/clowdhaus/griddles/pull/34)|dependabot/npm_and_yarn/sass-loader-8.0.2|dependabot-preview[bot]|0|
 |clowdhaus/bulwarks|[#57](https://github.com/clowdhaus/bulwarks/pull/57)|dependabot/pip/lambdas/boto3-approx-eq-1.12.39|dependabot-preview[bot]|0|
 |clowdhaus/bulwarks|[#58](https://github.com/clowdhaus/bulwarks/pull/58)|dependabot/pip/lambdas/botocore-approx-eq-1.15.39|dependabot-preview[bot]|0|
 
