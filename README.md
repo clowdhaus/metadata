@@ -55,5 +55,6 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 | --- | --- | --- | --- | --- |
 |clowdhaus/git-mander|[#33](https://github.com/clowdhaus/git-mander/pull/33)|dependabot/cargo/libc-0.2.69|dependabot-preview[bot]|0|
 |clowdhaus/git-mander|[#34](https://github.com/clowdhaus/git-mander/pull/34)|dependabot/cargo/hermit-abi-0.1.11|dependabot-preview[bot]|0|
+|clowdhaus/bulwarks|[#59](https://github.com/clowdhaus/bulwarks/pull/59)|dependabot/pip/lambdas/boto3-approx-eq-1.12.41|dependabot-preview[bot]|0|
 
 <!-- PR End -->
