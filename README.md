@@ -66,7 +66,6 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 <!-- PR Start -->
 | Repository | PR | Branch | User | Age (days) |
 | --- | --- | --- | --- | --- |
-|clowdhaus/aws-github-actions|[#3](https://github.com/clowdhaus/aws-github-actions/pull/3)|restyled/renovate/configure|restyled-io[bot]|0|
 |clowdhaus/compliance|[#8](https://github.com/clowdhaus/compliance/pull/8)|renovate/configure|renovate[bot]|0|
 |clowdhaus/compress|[#2](https://github.com/clowdhaus/compress/pull/2)|renovate/configure|renovate[bot]|0|
 |clowdhaus/bakery|[#5](https://github.com/clowdhaus/bakery/pull/5)|renovate/configure|renovate[bot]|0|
