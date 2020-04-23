@@ -35,12 +35,16 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
     </ul>
 </details>
     
-#### `test` : [v0.1.0](https://github.com/clowdhaus/test/releases/tag/v0.1.0)
+#### `test` : [v1.0.2](https://github.com/clowdhaus/test/releases/tag/v1.0.2)
 
 <details>
 <summary>All Versions</summary>
     <ul>
-        <li><a href="https://github.com/clowdhaus/test/releases/tag/v0.1.0">v0.1.0</a></li>
+        <li><a href="https://github.com/clowdhaus/test/releases/tag/v1.0.2">v1.0.2</a></li>
+	<li><a href="https://github.com/clowdhaus/test/releases/tag/v1.0.1">v1.0.1</a></li>
+	<li><a href="https://github.com/clowdhaus/test/releases/tag/v1.0.0">v1.0.0</a></li>
+	<li><a href="https://github.com/clowdhaus/test/releases/tag/v0.2.0">v0.2.0</a></li>
+	<li><a href="https://github.com/clowdhaus/test/releases/tag/v0.1.0">v0.1.0</a></li>
     </ul>
 </details>
     
