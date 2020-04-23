@@ -35,6 +35,15 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
     </ul>
 </details>
     
+#### `compress` : [v1.0.0](https://github.com/clowdhaus/compress/releases/tag/v1.0.0)
+
+<details>
+<summary>All Versions</summary>
+    <ul>
+        <li><a href="https://github.com/clowdhaus/compress/releases/tag/v1.0.0">v1.0.0</a></li>
+    </ul>
+</details>
+    
 #### `test` : [v1.0.2](https://github.com/clowdhaus/test/releases/tag/v1.0.2)
 
 <details>
