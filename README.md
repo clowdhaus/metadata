@@ -70,5 +70,6 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 |clowdhaus/compress|[#2](https://github.com/clowdhaus/compress/pull/2)|renovate/configure|renovate[bot]|0|
 |clowdhaus/bakery|[#5](https://github.com/clowdhaus/bakery/pull/5)|renovate/configure|renovate[bot]|0|
 |clowdhaus/watcher|[#2](https://github.com/clowdhaus/watcher/pull/2)|renovate/configure|renovate[bot]|0|
+|clowdhaus/watcher|[#3](https://github.com/clowdhaus/watcher/pull/3)|restyled/renovate/configure|restyled-io[bot]|0|
 
 <!-- PR End -->
