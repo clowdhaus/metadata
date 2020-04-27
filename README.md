@@ -62,6 +62,7 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 |clowdhaus/griddles|[#38](https://github.com/clowdhaus/griddles/pull/38)|dependabot/npm_and_yarn/eslint-config-prettier-6.11.0|dependabot-preview[bot]|0|
 |clowdhaus/griddles|[#39](https://github.com/clowdhaus/griddles/pull/39)|dependabot/npm_and_yarn/semantic-release-17.0.7|dependabot-preview[bot]|0|
 |clowdhaus/griddles|[#40](https://github.com/clowdhaus/griddles/pull/40)|dependabot/npm_and_yarn/fibers-5.0.0|dependabot-preview[bot]|0|
+|clowdhaus/griddles|[#41](https://github.com/clowdhaus/griddles/pull/41)|dependabot/npm_and_yarn/lint-staged-10.1.7|dependabot-preview[bot]|0|
 |clowdhaus/bulwarks|[#61](https://github.com/clowdhaus/bulwarks/pull/61)|dependabot/pip/lambdas/botocore-approx-eq-1.15.46|dependabot-preview[bot]|0|
 |clowdhaus/bulwarks|[#62](https://github.com/clowdhaus/bulwarks/pull/62)|dependabot/pip/lambdas/boto3-approx-eq-1.12.46|dependabot-preview[bot]|0|
 
