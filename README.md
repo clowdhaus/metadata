@@ -67,5 +67,6 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 |clowdhaus/griddles|[#44](https://github.com/clowdhaus/griddles/pull/44)|dependabot/npm_and_yarn/lint-staged-10.2.2|dependabot-preview[bot]|0|
 |clowdhaus/griddles|[#45](https://github.com/clowdhaus/griddles/pull/45)|dependabot/npm_and_yarn/postcss-7.0.28|dependabot-preview[bot]|0|
 |clowdhaus/griddles|[#46](https://github.com/clowdhaus/griddles/pull/46)|dependabot/npm_and_yarn/commitizen-4.0.5|dependabot-preview[bot]|0|
+|clowdhaus/bulwarks|[#63](https://github.com/clowdhaus/bulwarks/pull/63)|dependabot/pip/lambdas/botocore-approx-eq-1.15.49|dependabot-preview[bot]|0|
 
 <!-- PR End -->
