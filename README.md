@@ -63,5 +63,6 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 <!-- PR Start -->
 | Repository | PR | Branch | User | Age (days) |
 | --- | --- | --- | --- | --- |
+|clowdhaus/griddles|[#43](https://github.com/clowdhaus/griddles/pull/43)|dependabot/npm_and_yarn/vuetify-2.2.26|dependabot-preview[bot]|0|
 
 <!-- PR End -->
