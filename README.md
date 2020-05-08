@@ -63,6 +63,5 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 <!-- PR Start -->
 | Repository | PR | Branch | User | Age (days) |
 | --- | --- | --- | --- | --- |
-|clowdhaus/bulwarks|[#63](https://github.com/clowdhaus/bulwarks/pull/63)|dependabot/pip/lambdas/botocore-approx-eq-1.15.49|dependabot-preview[bot]|4|
 
 <!-- PR End -->
