@@ -67,8 +67,6 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 |clowdhaus/griddles|[#47](https://github.com/clowdhaus/griddles/pull/47)|dependabot/npm_and_yarn/eslint-plugin-gridsome-1.4.10|dependabot-preview[bot]|0|
 |clowdhaus/griddles|[#48](https://github.com/clowdhaus/griddles/pull/48)|dependabot/npm_and_yarn/vuetify-2.2.27|dependabot-preview[bot]|0|
 |clowdhaus/griddles|[#49](https://github.com/clowdhaus/griddles/pull/49)|dependabot/npm_and_yarn/fullhuman/postcss-purgecss-2.2.0|dependabot-preview[bot]|0|
-|clowdhaus/griddles|[#50](https://github.com/clowdhaus/griddles/pull/50)|dependabot/npm_and_yarn/commitizen-4.1.2|dependabot-preview[bot]|0|
-|clowdhaus/griddles|[#51](https://github.com/clowdhaus/griddles/pull/51)|dependabot/npm_and_yarn/cz-conventional-changelog-3.2.0|dependabot-preview[bot]|0|
 |clowdhaus/bulwarks|[#64](https://github.com/clowdhaus/bulwarks/pull/64)|dependabot/pip/lambdas/botocore-approx-eq-1.16.6|dependabot-preview[bot]|0|
 |clowdhaus/bulwarks|[#65](https://github.com/clowdhaus/bulwarks/pull/65)|dependabot/pip/lambdas/boto3-approx-eq-1.13.6|dependabot-preview[bot]|0|
 
