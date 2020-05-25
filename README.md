@@ -64,5 +64,6 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 <!-- PR Start -->
 | Repository | PR | Branch | User | Age (days) |
 | --- | --- | --- | --- | --- |
+|clowdhaus/git-mander|[#42](https://github.com/clowdhaus/git-mander/pull/42)|dependabot/cargo/openssl-sys-0.9.57|dependabot-preview[bot]|0|
 
 <!-- PR End -->
