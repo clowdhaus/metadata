@@ -64,6 +64,5 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 <!-- PR Start -->
 | Repository | PR | Branch | User | Age (days) |
 | --- | --- | --- | --- | --- |
-|clowdhaus/griddles|[#60](https://github.com/clowdhaus/griddles/pull/60)|dependabot/npm_and_yarn/eslint-7.1.0|dependabot-preview[bot]|0|
 
 <!-- PR End -->
