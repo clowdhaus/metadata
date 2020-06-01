@@ -64,7 +64,6 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 <!-- PR Start -->
 | Repository | PR | Branch | User | Age (days) |
 | --- | --- | --- | --- | --- |
-|clowdhaus/git-mander|[#45](https://github.com/clowdhaus/git-mander/pull/45)|dependabot/cargo/libc-0.2.71|dependabot-preview[bot]|0|
 |clowdhaus/git-mander|[#46](https://github.com/clowdhaus/git-mander/pull/46)|dependabot/cargo/vcpkg-0.2.9|dependabot-preview[bot]|0|
 |clowdhaus/bulwarks|[#69](https://github.com/clowdhaus/bulwarks/pull/69)|dependabot/pip/lambdas/boto3-approx-eq-1.13.19|dependabot-preview[bot]|0|
 |clowdhaus/bulwarks|[#70](https://github.com/clowdhaus/bulwarks/pull/70)|dependabot/pip/lambdas/botocore-approx-eq-1.16.19|dependabot-preview[bot]|0|
