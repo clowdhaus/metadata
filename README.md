@@ -66,9 +66,7 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 | --- | --- | --- | --- | --- |
 |clowdhaus/git-mander|[#45](https://github.com/clowdhaus/git-mander/pull/45)|dependabot/cargo/libc-0.2.71|dependabot-preview[bot]|0|
 |clowdhaus/git-mander|[#46](https://github.com/clowdhaus/git-mander/pull/46)|dependabot/cargo/vcpkg-0.2.9|dependabot-preview[bot]|0|
-|clowdhaus/griddles|[#62](https://github.com/clowdhaus/griddles/pull/62)|dependabot/npm_and_yarn/gridsome/transformer-remark-0.6.0|dependabot-preview[bot]|0|
 |clowdhaus/griddles|[#63](https://github.com/clowdhaus/griddles/pull/63)|dependabot/npm_and_yarn/sass-1.26.7|dependabot-preview[bot]|0|
-|clowdhaus/griddles|[#64](https://github.com/clowdhaus/griddles/pull/64)|dependabot/npm_and_yarn/postcss-7.0.31|dependabot-preview[bot]|0|
 |clowdhaus/griddles|[#65](https://github.com/clowdhaus/griddles/pull/65)|dependabot/npm_and_yarn/gridsome-0.7.15|dependabot-preview[bot]|0|
 |clowdhaus/griddles|[#66](https://github.com/clowdhaus/griddles/pull/66)|dependabot/npm_and_yarn/vuetify-2.2.30|dependabot-preview[bot]|0|
 |clowdhaus/griddles|[#67](https://github.com/clowdhaus/griddles/pull/67)|dependabot/npm_and_yarn/lint-staged-10.2.7|dependabot-preview[bot]|0|
