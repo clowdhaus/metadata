@@ -64,7 +64,6 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 <!-- PR Start -->
 | Repository | PR | Branch | User | Age (days) |
 | --- | --- | --- | --- | --- |
-|clowdhaus/haus|[#2](https://github.com/clowdhaus/haus/pull/2)|dependabot/npm_and_yarn/websocket-extensions-0.1.4|dependabot[bot]|0|
 |clowdhaus/compliance|[#9](https://github.com/clowdhaus/compliance/pull/9)|dependabot/cargo/rusoto_core-0.44|dependabot-preview[bot]|0|
 |clowdhaus/compliance|[#10](https://github.com/clowdhaus/compliance/pull/10)|dependabot/cargo/rusoto_config-0.44|dependabot-preview[bot]|0|
 |clowdhaus/git-mander|[#47](https://github.com/clowdhaus/git-mander/pull/47)|dependabot/cargo/openssl-sys-0.9.58|dependabot-preview[bot]|0|
