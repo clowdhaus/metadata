@@ -67,6 +67,7 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 |clowdhaus/haus|[#2](https://api.github.com/repos/clowdhaus/haus/pulls/2)|dependabot/npm_and_yarn/websocket-extensions-0.1.4|dependabot[bot]|0|
 |clowdhaus/compliance|[#9](https://github.com/clowdhaus/compliance/pull/9)|dependabot/cargo/rusoto_core-0.44|dependabot-preview[bot]|0|
 |clowdhaus/compliance|[#10](https://github.com/clowdhaus/compliance/pull/10)|dependabot/cargo/rusoto_config-0.44|dependabot-preview[bot]|0|
+|clowdhaus/git-mander|[#47](https://github.com/clowdhaus/git-mander/pull/47)|dependabot/cargo/openssl-sys-0.9.58|dependabot-preview[bot]|0|
 |clowdhaus/griddles|[#69](https://github.com/clowdhaus/griddles/pull/69)|dependabot/npm_and_yarn/gridsome-0.7.17|dependabot-preview[bot]|0|
 |clowdhaus/bulwarks|[#71](https://github.com/clowdhaus/bulwarks/pull/71)|dependabot/pip/lambdas/boto3-approx-eq-1.13.24|dependabot-preview[bot]|0|
 |clowdhaus/bulwarks|[#72](https://github.com/clowdhaus/bulwarks/pull/72)|dependabot/pip/lambdas/botocore-approx-eq-1.16.24|dependabot-preview[bot]|0|
