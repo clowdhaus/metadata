@@ -11,12 +11,13 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 
 <!-- Tag Start -->
 
-#### `aws-github-actions` : [v0.4.3](https://github.com/clowdhaus/aws-github-actions/releases/tag/v0.4.3)
+#### `aws-github-actions` : [v0.4.4](https://github.com/clowdhaus/aws-github-actions/releases/tag/v0.4.4)
 
 <details>
 <summary>All Versions</summary>
     <ul>
-        <li><a href="https://github.com/clowdhaus/aws-github-actions/releases/tag/v0.4.3">v0.4.3</a></li>
+        <li><a href="https://github.com/clowdhaus/aws-github-actions/releases/tag/v0.4.4">v0.4.4</a></li>
+	<li><a href="https://github.com/clowdhaus/aws-github-actions/releases/tag/v0.4.3">v0.4.3</a></li>
 	<li><a href="https://github.com/clowdhaus/aws-github-actions/releases/tag/v0.4.2">v0.4.2</a></li>
 	<li><a href="https://github.com/clowdhaus/aws-github-actions/releases/tag/v0.4.1">v0.4.1</a></li>
 	<li><a href="https://github.com/clowdhaus/aws-github-actions/releases/tag/v0.4.0">v0.4.0</a></li>
