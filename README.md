@@ -11,12 +11,13 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 
 <!-- Tag Start -->
 
-#### `fargate-gitlab-runner` : [v0.0.2](https://github.com/clowdhaus/fargate-gitlab-runner/releases/tag/v0.0.2)
+#### `fargate-gitlab-runner` : [v0.0.3](https://github.com/clowdhaus/fargate-gitlab-runner/releases/tag/v0.0.3)
 
 <details>
 <summary>All Versions</summary>
     <ul>
-        <li><a href="https://github.com/clowdhaus/fargate-gitlab-runner/releases/tag/v0.0.2">v0.0.2</a></li>
+        <li><a href="https://github.com/clowdhaus/fargate-gitlab-runner/releases/tag/v0.0.3">v0.0.3</a></li>
+	<li><a href="https://github.com/clowdhaus/fargate-gitlab-runner/releases/tag/v0.0.2">v0.0.2</a></li>
 	<li><a href="https://github.com/clowdhaus/fargate-gitlab-runner/releases/tag/v0.0.1">v0.0.1</a></li>
     </ul>
 </details>
