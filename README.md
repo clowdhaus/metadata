@@ -79,6 +79,7 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 | Repository | PR | Branch | User | Age (days) |
 | --- | --- | --- | --- | --- |
 |clowdhaus/git-mander|[#51](https://github.com/clowdhaus/git-mander/pull/51)|dependabot/cargo/winapi-0.3.9|dependabot-preview[bot]|0|
+|clowdhaus/git-mander|[#52](https://github.com/clowdhaus/git-mander/pull/52)|dependabot/cargo/cc-1.0.55|dependabot-preview[bot]|0|
 |clowdhaus/griddles|[#78](https://github.com/clowdhaus/griddles/pull/78)|dependabot/npm_and_yarn/sass-1.26.9|dependabot-preview[bot]|0|
 |clowdhaus/griddles|[#79](https://github.com/clowdhaus/griddles/pull/79)|dependabot/npm_and_yarn/eslint-plugin-gridsome-1.4.13|dependabot-preview[bot]|0|
 |clowdhaus/griddles|[#80](https://github.com/clowdhaus/griddles/pull/80)|dependabot/npm_and_yarn/eslint-7.3.1|dependabot-preview[bot]|0|
