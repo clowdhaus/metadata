@@ -79,5 +79,6 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 | Repository | PR | Branch | User | Age (days) |
 | --- | --- | --- | --- | --- |
 |clowdhaus/git-mander|[#53](https://github.com/clowdhaus/git-mander/pull/53)|dependabot/cargo/unicode-width-0.1.8|dependabot-preview[bot]|0|
+|clowdhaus/git-mander|[#54](https://github.com/clowdhaus/git-mander/pull/54)|dependabot/cargo/hermit-abi-0.1.15|dependabot-preview[bot]|0|
 
 <!-- PR End -->
