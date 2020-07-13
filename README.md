@@ -81,5 +81,6 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 | --- | --- | --- | --- | --- |
 |clowdhaus/aws-github-actions|[#8](https://api.github.com/repos/clowdhaus/aws-github-actions/pulls/8)|master|ZsoltPath|7|
 |clowdhaus/git-mander|[#57](https://github.com/clowdhaus/git-mander/pull/57)|dependabot/cargo/pkg-config-0.3.18|dependabot-preview[bot]|0|
+|clowdhaus/serverless-scoped-iam-roles|[#1](https://github.com/clowdhaus/serverless-scoped-iam-roles/pull/1)|dependabot/npm_and_yarn/standard-version-8.0.1|dependabot[bot]|0|
 
 <!-- PR End -->
