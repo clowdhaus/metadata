@@ -11,17 +11,6 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 
 <!-- Tag Start -->
 
-#### `groot` : [v1.1.0](https://github.com/clowdhaus/groot/releases/tag/v1.1.0)
-
-<details>
-<summary>All Versions</summary>
-    <ul>
-        <li><a href="https://github.com/clowdhaus/groot/releases/tag/v1.1.0">v1.1.0</a></li>
-	<li><a href="https://github.com/clowdhaus/groot/releases/tag/v1.0.1">v1.0.1</a></li>
-	<li><a href="https://github.com/clowdhaus/groot/releases/tag/v1.0.0">v1.0.0</a></li>
-    </ul>
-</details>
-    
 #### `fargate-gitlab-runner` : [v0.0.3](https://github.com/clowdhaus/fargate-gitlab-runner/releases/tag/v0.0.3)
 
 <details>
