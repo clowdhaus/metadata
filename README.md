@@ -83,5 +83,6 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 |clowdhaus/aws-github-actions|[#8](https://api.github.com/repos/clowdhaus/aws-github-actions/pulls/8)|master|ZsoltPath|14|
 |clowdhaus/compliance|[#11](https://api.github.com/repos/clowdhaus/compliance/pulls/11)|dependabot/npm_and_yarn/rules/lodash-4.17.19|dependabot[bot]|1|
 |clowdhaus/jupyterlab-purple|[#1](https://api.github.com/repos/clowdhaus/jupyterlab-purple/pulls/1)|dependabot/npm_and_yarn/lodash-4.17.19|dependabot[bot]|0|
+|clowdhaus/bulwarks|[#78](https://github.com/clowdhaus/bulwarks/pull/78)|dependabot/pip/lambdas/botocore-approx-eq-1.17.23|dependabot-preview[bot]|0|
 
 <!-- PR End -->
