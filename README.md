@@ -85,5 +85,6 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 |clowdhaus/compliance|[#13](https://github.com/clowdhaus/compliance/pull/13)|dependabot/cargo/rusoto_config-0.45|dependabot-preview[bot]|0|
 |clowdhaus/git-mander|[#60](https://github.com/clowdhaus/git-mander/pull/60)|dependabot/cargo/git2-0.13.8|dependabot-preview[bot]|0|
 |clowdhaus/git-mander|[#61](https://github.com/clowdhaus/git-mander/pull/61)|dependabot/cargo/libc-0.2.73|dependabot-preview[bot]|0|
+|clowdhaus/griddles|[#93](https://github.com/clowdhaus/griddles/pull/93)|dependabot/npm_and_yarn/vuetify-2.3.6|dependabot-preview[bot]|0|
 
 <!-- PR End -->
