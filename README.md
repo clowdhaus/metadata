@@ -81,13 +81,13 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 | Repository | PR | Branch | User | Age (days) |
 | --- | --- | --- | --- | --- |
 |clowdhaus/aws-github-actions|[#8](https://api.github.com/repos/clowdhaus/aws-github-actions/pulls/8)|master|ZsoltPath|22|
-|clowdhaus/compliance|[#12](https://github.com/clowdhaus/compliance/pull/12)|dependabot/cargo/rusoto_core-0.45|dependabot-preview[bot]|1|
-|clowdhaus/compliance|[#13](https://github.com/clowdhaus/compliance/pull/13)|dependabot/cargo/rusoto_config-0.45|dependabot-preview[bot]|1|
-|clowdhaus/git-mander|[#60](https://github.com/clowdhaus/git-mander/pull/60)|dependabot/cargo/git2-0.13.8|dependabot-preview[bot]|1|
-|clowdhaus/git-mander|[#61](https://github.com/clowdhaus/git-mander/pull/61)|dependabot/cargo/libc-0.2.73|dependabot-preview[bot]|1|
-|clowdhaus/clowd|[#8](https://github.com/clowdhaus/clowd/pull/8)|feature/test|bryantbiggs|1|
-|clowdhaus/griddles|[#93](https://github.com/clowdhaus/griddles/pull/93)|dependabot/npm_and_yarn/vuetify-2.3.6|dependabot-preview[bot]|1|
-|clowdhaus/bulwarks|[#80](https://github.com/clowdhaus/bulwarks/pull/80)|dependabot/pip/lambdas/botocore-approx-eq-1.17.28|dependabot-preview[bot]|1|
-|clowdhaus/bulwarks|[#81](https://github.com/clowdhaus/bulwarks/pull/81)|dependabot/pip/lambdas/boto3-approx-eq-1.14.28|dependabot-preview[bot]|1|
+|clowdhaus/compliance|[#12](https://api.github.com/repos/clowdhaus/compliance/pulls/12)|dependabot/cargo/rusoto_core-0.45|dependabot-preview[bot]|1|
+|clowdhaus/compliance|[#13](https://api.github.com/repos/clowdhaus/compliance/pulls/13)|dependabot/cargo/rusoto_config-0.45|dependabot-preview[bot]|1|
+|clowdhaus/git-mander|[#60](https://api.github.com/repos/clowdhaus/git-mander/pulls/60)|dependabot/cargo/git2-0.13.8|dependabot-preview[bot]|1|
+|clowdhaus/git-mander|[#61](https://api.github.com/repos/clowdhaus/git-mander/pulls/61)|dependabot/cargo/libc-0.2.73|dependabot-preview[bot]|1|
+|clowdhaus/clowd|[#8](https://api.github.com/repos/clowdhaus/clowd/pulls/8)|feature/test|bryantbiggs|1|
+|clowdhaus/griddles|[#93](https://api.github.com/repos/clowdhaus/griddles/pulls/93)|dependabot/npm_and_yarn/vuetify-2.3.6|dependabot-preview[bot]|1|
+|clowdhaus/bulwarks|[#80](https://api.github.com/repos/clowdhaus/bulwarks/pulls/80)|dependabot/pip/lambdas/botocore-approx-eq-1.17.28|dependabot-preview[bot]|1|
+|clowdhaus/bulwarks|[#81](https://api.github.com/repos/clowdhaus/bulwarks/pulls/81)|dependabot/pip/lambdas/boto3-approx-eq-1.14.28|dependabot-preview[bot]|1|
 
 <!-- PR End -->
