@@ -87,7 +87,7 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 |clowdhaus/git-mander|[#61](https://api.github.com/repos/clowdhaus/git-mander/pulls/61)|dependabot/cargo/libc-0.2.73|dependabot-preview[bot]|4|
 |clowdhaus/clowd|[#8](https://api.github.com/repos/clowdhaus/clowd/pulls/8)|feature/test|bryantbiggs|4|
 |clowdhaus/griddles|[#93](https://api.github.com/repos/clowdhaus/griddles/pulls/93)|dependabot/npm_and_yarn/vuetify-2.3.6|dependabot-preview[bot]|4|
-|clowdhaus/bulwarks|[#80](https://api.github.com/repos/clowdhaus/bulwarks/pulls/80)|dependabot/pip/lambdas/botocore-approx-eq-1.17.28|dependabot-preview[bot]|4|
-|clowdhaus/bulwarks|[#81](https://api.github.com/repos/clowdhaus/bulwarks/pulls/81)|dependabot/pip/lambdas/boto3-approx-eq-1.14.28|dependabot-preview[bot]|4|
+|clowdhaus/bulwarks|[#80](https://github.com/clowdhaus/bulwarks/pull/80)|dependabot/pip/lambdas/botocore-approx-eq-1.17.28|dependabot-preview[bot]|4|
+|clowdhaus/bulwarks|[#81](https://github.com/clowdhaus/bulwarks/pull/81)|dependabot/pip/lambdas/boto3-approx-eq-1.14.28|dependabot-preview[bot]|4|
 
 <!-- PR End -->
