@@ -81,6 +81,6 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 <!-- PR Start -->
 | Repository | PR | Branch | User | Age (days) |
 | --- | --- | --- | --- | --- |
-|clowdhaus/atlantis-test|[#1](https://github.com/clowdhaus/atlantis-test/pull/1)|test|bryantbiggs|0|
+|clowdhaus/atlantis-test|[#1](https://api.github.com/repos/clowdhaus/atlantis-test/pulls/1)|test|bryantbiggs|1|
 
 <!-- PR End -->
