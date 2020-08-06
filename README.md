@@ -81,8 +81,8 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 <!-- PR Start -->
 | Repository | PR | Branch | User | Age (days) |
 | --- | --- | --- | --- | --- |
-|clowdhaus/claus|[#7](https://api.github.com/repos/clowdhaus/claus/pulls/7)|dependabot/go_modules/github.com/spf13/viper-1.7.1|dependabot-preview[bot]|2|
-|clowdhaus/bulwarks|[#82](https://api.github.com/repos/clowdhaus/bulwarks/pulls/82)|dependabot/pip/lambdas/boto3-approx-eq-1.14.33|dependabot-preview[bot]|2|
-|clowdhaus/bulwarks|[#83](https://api.github.com/repos/clowdhaus/bulwarks/pulls/83)|dependabot/pip/lambdas/botocore-approx-eq-1.17.33|dependabot-preview[bot]|2|
+|clowdhaus/claus|[#7](https://api.github.com/repos/clowdhaus/claus/pulls/7)|dependabot/go_modules/github.com/spf13/viper-1.7.1|dependabot-preview[bot]|3|
+|clowdhaus/bulwarks|[#82](https://api.github.com/repos/clowdhaus/bulwarks/pulls/82)|dependabot/pip/lambdas/boto3-approx-eq-1.14.33|dependabot-preview[bot]|3|
+|clowdhaus/bulwarks|[#83](https://api.github.com/repos/clowdhaus/bulwarks/pulls/83)|dependabot/pip/lambdas/botocore-approx-eq-1.17.33|dependabot-preview[bot]|3|
 
 <!-- PR End -->
