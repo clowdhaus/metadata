@@ -86,5 +86,6 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 |clowdhaus/git-mander|[#65](https://github.com/clowdhaus/git-mander/pull/65)|dependabot/cargo/libz-sys-1.1.0|dependabot-preview[bot]|0|
 |clowdhaus/git-mander|[#66](https://github.com/clowdhaus/git-mander/pull/66)|dependabot/cargo/libc-0.2.76|dependabot-preview[bot]|0|
 |clowdhaus/git-mander|[#67](https://github.com/clowdhaus/git-mander/pull/67)|dependabot/cargo/autocfg-1.0.1|dependabot-preview[bot]|0|
+|clowdhaus/git-mander|[#68](https://github.com/clowdhaus/git-mander/pull/68)|dependabot/cargo/git2-0.13.10|dependabot-preview[bot]|0|
 
 <!-- PR End -->
