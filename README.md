@@ -84,7 +84,6 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 | --- | --- | --- | --- | --- |
 |clowdhaus/git-mander|[#71](https://github.com/clowdhaus/git-mander/pull/71)|dependabot/cargo/libz-sys-1.1.1|dependabot-preview[bot]|0|
 |clowdhaus/griddles|[#101](https://github.com/clowdhaus/griddles/pull/101)|dependabot/npm_and_yarn/webpack-node-externals-2.5.2|dependabot-preview[bot]|0|
-|clowdhaus/griddles|[#107](https://github.com/clowdhaus/griddles/pull/107)|dependabot/npm_and_yarn/sass-loader-10.0.1|dependabot-preview[bot]|0|
 |clowdhaus/griddles|[#109](https://github.com/clowdhaus/griddles/pull/109)|dependabot/npm_and_yarn/vuetify-2.3.10|dependabot-preview[bot]|0|
 |clowdhaus/bulwarks|[#90](https://github.com/clowdhaus/bulwarks/pull/90)|dependabot/pip/lambdas/botocore-approx-eq-1.17.51|dependabot-preview[bot]|0|
 |clowdhaus/bulwarks|[#91](https://github.com/clowdhaus/bulwarks/pull/91)|dependabot/pip/lambdas/boto3-approx-eq-1.14.51|dependabot-preview[bot]|0|
