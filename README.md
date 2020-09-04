@@ -93,5 +93,6 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 |clowdhaus/serverless-offline|[#8](https://github.com/clowdhaus/serverless-offline/pull/8)|dependabot/npm_and_yarn/examples/events/websocket/decompress-4.2.1|dependabot[bot]|0|
 |clowdhaus/serverless-offline|[#9](https://github.com/clowdhaus/serverless-offline/pull/9)|dependabot/npm_and_yarn/examples/tools/babel-register/decompress-4.2.1|dependabot[bot]|0|
 |clowdhaus/serverless-offline|[#10](https://github.com/clowdhaus/serverless-offline/pull/10)|dependabot/npm_and_yarn/examples/tools/serverless-plugin-typescript/decompress-4.2.1|dependabot[bot]|0|
+|clowdhaus/serverless-offline|[#11](https://github.com/clowdhaus/serverless-offline/pull/11)|dependabot/npm_and_yarn/examples/tools/nodemon/decompress-4.2.1|dependabot[bot]|0|
 
 <!-- PR End -->
