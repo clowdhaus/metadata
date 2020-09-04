@@ -83,16 +83,5 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 | Repository | PR | Branch | User | Age (days) |
 | --- | --- | --- | --- | --- |
 |clowdhaus/dogged-params|[#1](https://api.github.com/repos/clowdhaus/dogged-params/pulls/1)|dependabot/npm_and_yarn/bl-4.0.3|dependabot[bot]|2|
-|clowdhaus/serverless-offline|[#1](https://github.com/clowdhaus/serverless-offline/pull/1)|dependabot/npm_and_yarn/examples/tools/serverless-plugin-typescript/hapi/hapi-18.4.1|dependabot[bot]|1|
-|clowdhaus/serverless-offline|[#2](https://github.com/clowdhaus/serverless-offline/pull/2)|dependabot/npm_and_yarn/examples/tools/serverless-webpack/hapi/hapi-18.4.1|dependabot[bot]|1|
-|clowdhaus/serverless-offline|[#3](https://github.com/clowdhaus/serverless-offline/pull/3)|dependabot/npm_and_yarn/examples/lambda-invoke/decompress-4.2.1|dependabot[bot]|0|
-|clowdhaus/serverless-offline|[#4](https://github.com/clowdhaus/serverless-offline/pull/4)|dependabot/npm_and_yarn/examples/tools/serverless-webpack/decompress-4.2.1|dependabot[bot]|0|
-|clowdhaus/serverless-offline|[#5](https://github.com/clowdhaus/serverless-offline/pull/5)|dependabot/npm_and_yarn/examples/events/schedule/decompress-4.2.1|dependabot[bot]|0|
-|clowdhaus/serverless-offline|[#6](https://github.com/clowdhaus/serverless-offline/pull/6)|dependabot/npm_and_yarn/examples/events/http/decompress-4.2.1|dependabot[bot]|0|
-|clowdhaus/serverless-offline|[#7](https://github.com/clowdhaus/serverless-offline/pull/7)|dependabot/npm_and_yarn/examples/tools/esm/decompress-4.2.1|dependabot[bot]|0|
-|clowdhaus/serverless-offline|[#8](https://github.com/clowdhaus/serverless-offline/pull/8)|dependabot/npm_and_yarn/examples/events/websocket/decompress-4.2.1|dependabot[bot]|0|
-|clowdhaus/serverless-offline|[#9](https://github.com/clowdhaus/serverless-offline/pull/9)|dependabot/npm_and_yarn/examples/tools/babel-register/decompress-4.2.1|dependabot[bot]|0|
-|clowdhaus/serverless-offline|[#10](https://github.com/clowdhaus/serverless-offline/pull/10)|dependabot/npm_and_yarn/examples/tools/serverless-plugin-typescript/decompress-4.2.1|dependabot[bot]|0|
-|clowdhaus/serverless-offline|[#11](https://github.com/clowdhaus/serverless-offline/pull/11)|dependabot/npm_and_yarn/examples/tools/nodemon/decompress-4.2.1|dependabot[bot]|0|
 
 <!-- PR End -->
