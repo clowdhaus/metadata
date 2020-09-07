@@ -84,10 +84,6 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 | --- | --- | --- | --- | --- |
 |clowdhaus/dogged-params|[#1](https://api.github.com/repos/clowdhaus/dogged-params/pulls/1)|dependabot/npm_and_yarn/bl-4.0.3|dependabot[bot]|5|
 |clowdhaus/git-mander|[#72](https://github.com/clowdhaus/git-mander/pull/72)|dependabot/cargo/libz-sys-1.1.2|dependabot-preview[bot]|0|
-|clowdhaus/griddles|[#110](https://github.com/clowdhaus/griddles/pull/110)|dependabot/npm_and_yarn/lint-staged-10.3.0|dependabot-preview[bot]|0|
-|clowdhaus/griddles|[#111](https://github.com/clowdhaus/griddles/pull/111)|dependabot/npm_and_yarn/sass-loader-10.0.2|dependabot-preview[bot]|0|
-|clowdhaus/griddles|[#112](https://github.com/clowdhaus/griddles/pull/112)|dependabot/npm_and_yarn/eslint-7.8.1|dependabot-preview[bot]|0|
-|clowdhaus/griddles|[#113](https://github.com/clowdhaus/griddles/pull/113)|dependabot/npm_and_yarn/husky-4.3.0|dependabot-preview[bot]|0|
 |clowdhaus/bulwarks|[#92](https://github.com/clowdhaus/bulwarks/pull/92)|dependabot/pip/lambdas/botocore-approx-eq-1.17.56|dependabot-preview[bot]|0|
 |clowdhaus/bulwarks|[#93](https://github.com/clowdhaus/bulwarks/pull/93)|dependabot/pip/lambdas/boto3-approx-eq-1.14.56|dependabot-preview[bot]|0|
 
