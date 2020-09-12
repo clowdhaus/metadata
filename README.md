@@ -85,5 +85,6 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 |clowdhaus/go-nogo|[#3](https://github.com/clowdhaus/go-nogo/pull/3)|dependabot/npm_and_yarn/node-fetch-2.6.1|dependabot[bot]|0|
 |clowdhaus/aws-github-actions|[#9](https://github.com/clowdhaus/aws-github-actions/pull/9)|dependabot/npm_and_yarn/node-fetch-2.6.1|dependabot[bot]|0|
 |clowdhaus/dogged-params|[#1](https://api.github.com/repos/clowdhaus/dogged-params/pulls/1)|dependabot/npm_and_yarn/bl-4.0.3|dependabot[bot]|10|
+|clowdhaus/compress|[#4](https://github.com/clowdhaus/compress/pull/4)|dependabot/npm_and_yarn/node-fetch-2.6.1|dependabot[bot]|0|
 
 <!-- PR End -->
