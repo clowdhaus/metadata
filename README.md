@@ -84,10 +84,10 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 <!-- PR Start -->
 | Repository | PR | Branch | User | Age (days) |
 | --- | --- | --- | --- | --- |
-|clowdhaus/go-nogo|[#3](https://github.com/clowdhaus/go-nogo/pull/3)|dependabot/npm_and_yarn/node-fetch-2.6.1|dependabot[bot]|1|
-|clowdhaus/dogged-params|[#2](https://github.com/clowdhaus/dogged-params/pull/2)|feature/serverless-esbuild|bryantbiggs|0|
-|clowdhaus/dogged-params|[#3](https://github.com/clowdhaus/dogged-params/pull/3)|feature/serverless-webpack-with-esbuild|bryantbiggs|0|
-|clowdhaus/jupyterlab-purple|[#2](https://github.com/clowdhaus/jupyterlab-purple/pull/2)|dependabot/npm_and_yarn/node-fetch-2.6.1|dependabot[bot]|1|
-|clowdhaus/compress|[#4](https://github.com/clowdhaus/compress/pull/4)|dependabot/npm_and_yarn/node-fetch-2.6.1|dependabot[bot]|1|
+|clowdhaus/go-nogo|[#3](https://github.com/clowdhaus/go-nogo/pull/3)|dependabot/npm_and_yarn/node-fetch-2.6.1|dependabot[bot]|2|
+|clowdhaus/dogged-params|[#2](https://github.com/clowdhaus/dogged-params/pull/2)|feature/serverless-esbuild|bryantbiggs|1|
+|clowdhaus/dogged-params|[#3](https://github.com/clowdhaus/dogged-params/pull/3)|feature/serverless-webpack-with-esbuild|bryantbiggs|1|
+|clowdhaus/jupyterlab-purple|[#2](https://github.com/clowdhaus/jupyterlab-purple/pull/2)|dependabot/npm_and_yarn/node-fetch-2.6.1|dependabot[bot]|2|
+|clowdhaus/compress|[#4](https://github.com/clowdhaus/compress/pull/4)|dependabot/npm_and_yarn/node-fetch-2.6.1|dependabot[bot]|2|
 
 <!-- PR End -->
