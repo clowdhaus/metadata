@@ -100,6 +100,6 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 |clowdhaus/dogged-params|[#2](https://api.github.com/repos/clowdhaus/dogged-params/pulls/2)|feature/serverless-esbuild|bryantbiggs|9|
 |clowdhaus/dogged-params|[#3](https://api.github.com/repos/clowdhaus/dogged-params/pulls/3)|feature/serverless-webpack-with-esbuild|bryantbiggs|9|
 |clowdhaus/jupyterlab-purple|[#2](https://api.github.com/repos/clowdhaus/jupyterlab-purple/pulls/2)|dependabot/npm_and_yarn/node-fetch-2.6.1|dependabot[bot]|10|
-|clowdhaus/test|[#1](https://github.com/clowdhaus/test/pull/1)|chore/checking|bryantbiggs|1|
+|clowdhaus/test|[#1](https://api.github.com/repos/clowdhaus/test/pulls/1)|chore/checking|bryantbiggs|1|
 
 <!-- PR End -->
