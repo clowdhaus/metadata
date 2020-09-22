@@ -42,12 +42,13 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
     </ul>
 </details>
     
-#### `adl-actions` : [v0.0.1](https://github.com/clowdhaus/adl-actions/releases/tag/v0.0.1)
+#### `adl-actions` : [v0.0.2](https://github.com/clowdhaus/adl-actions/releases/tag/v0.0.2)
 
 <details>
 <summary>All Versions</summary>
     <ul>
-        <li><a href="https://github.com/clowdhaus/adl-actions/releases/tag/v0.0.1">v0.0.1</a></li>
+        <li><a href="https://github.com/clowdhaus/adl-actions/releases/tag/v0.0.2">v0.0.2</a></li>
+	<li><a href="https://github.com/clowdhaus/adl-actions/releases/tag/v0.0.1">v0.0.1</a></li>
     </ul>
 </details>
     
