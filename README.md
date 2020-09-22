@@ -42,6 +42,15 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
     </ul>
 </details>
     
+#### `adl-actions` : [v0.0.1](https://github.com/clowdhaus/adl-actions/releases/tag/v0.0.1)
+
+<details>
+<summary>All Versions</summary>
+    <ul>
+        <li><a href="https://github.com/clowdhaus/adl-actions/releases/tag/v0.0.1">v0.0.1</a></li>
+    </ul>
+</details>
+    
 #### `compress` : [v1.0.0](https://github.com/clowdhaus/compress/releases/tag/v1.0.0)
 
 <details>
