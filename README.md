@@ -11,6 +11,15 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 
 <!-- Tag Start -->
 
+#### `actions` : [v0.1.0](https://github.com/clowdhaus/actions/releases/tag/v0.1.0)
+
+<details>
+<summary>All Versions</summary>
+    <ul>
+        <li><a href="https://github.com/clowdhaus/actions/releases/tag/v0.1.0">v0.1.0</a></li>
+    </ul>
+</details>
+    
 #### `fargate-gitlab-runner` : [v0.0.3](https://github.com/clowdhaus/fargate-gitlab-runner/releases/tag/v0.0.3)
 
 <details>
