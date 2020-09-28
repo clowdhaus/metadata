@@ -94,11 +94,9 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 <!-- PR Start -->
 | Repository | PR | Branch | User | Age (days) |
 | --- | --- | --- | --- | --- |
-|clowdhaus/go-nogo|[#3](https://api.github.com/repos/clowdhaus/go-nogo/pulls/3)|dependabot/npm_and_yarn/node-fetch-2.6.1|dependabot[bot]|13|
-|clowdhaus/dogged-params|[#2](https://api.github.com/repos/clowdhaus/dogged-params/pulls/2)|feature/serverless-esbuild|bryantbiggs|12|
-|clowdhaus/dogged-params|[#3](https://api.github.com/repos/clowdhaus/dogged-params/pulls/3)|feature/serverless-webpack-with-esbuild|bryantbiggs|12|
-|clowdhaus/jupyterlab-purple|[#2](https://api.github.com/repos/clowdhaus/jupyterlab-purple/pulls/2)|dependabot/npm_and_yarn/node-fetch-2.6.1|dependabot[bot]|13|
-|clowdhaus/test|[#1](https://api.github.com/repos/clowdhaus/test/pulls/1)|chore/checking|bryantbiggs|4|
-|clowdhaus/test|[#2](https://api.github.com/repos/clowdhaus/test/pulls/2)|foo|bryantbiggs|3|
+|clowdhaus/go-nogo|[#3](https://api.github.com/repos/clowdhaus/go-nogo/pulls/3)|dependabot/npm_and_yarn/node-fetch-2.6.1|dependabot[bot]|16|
+|clowdhaus/dogged-params|[#2](https://api.github.com/repos/clowdhaus/dogged-params/pulls/2)|feature/serverless-esbuild|bryantbiggs|15|
+|clowdhaus/dogged-params|[#3](https://api.github.com/repos/clowdhaus/dogged-params/pulls/3)|feature/serverless-webpack-with-esbuild|bryantbiggs|15|
+|clowdhaus/jupyterlab-purple|[#2](https://api.github.com/repos/clowdhaus/jupyterlab-purple/pulls/2)|dependabot/npm_and_yarn/node-fetch-2.6.1|dependabot[bot]|16|
 
 <!-- PR End -->
