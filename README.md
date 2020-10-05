@@ -95,10 +95,10 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 <!-- PR Start -->
 | Repository | PR | Branch | User | Age (days) |
 | --- | --- | --- | --- | --- |
-|clowdhaus/go-nogo|[#3](https://api.github.com/repos/clowdhaus/go-nogo/pulls/3)|dependabot/npm_and_yarn/node-fetch-2.6.1|dependabot[bot]|20|
-|clowdhaus/go-nogo|[#4](https://api.github.com/repos/clowdhaus/go-nogo/pulls/4)|dependabot/npm_and_yarn/actions/core-1.2.6|dependabot[bot]|1|
-|clowdhaus/dogged-params|[#2](https://api.github.com/repos/clowdhaus/dogged-params/pulls/2)|feature/serverless-esbuild|bryantbiggs|19|
-|clowdhaus/dogged-params|[#3](https://api.github.com/repos/clowdhaus/dogged-params/pulls/3)|feature/serverless-webpack-with-esbuild|bryantbiggs|19|
-|clowdhaus/jupyterlab-purple|[#2](https://api.github.com/repos/clowdhaus/jupyterlab-purple/pulls/2)|dependabot/npm_and_yarn/node-fetch-2.6.1|dependabot[bot]|20|
+|clowdhaus/go-nogo|[#3](https://api.github.com/repos/clowdhaus/go-nogo/pulls/3)|dependabot/npm_and_yarn/node-fetch-2.6.1|dependabot[bot]|23|
+|clowdhaus/go-nogo|[#4](https://api.github.com/repos/clowdhaus/go-nogo/pulls/4)|dependabot/npm_and_yarn/actions/core-1.2.6|dependabot[bot]|4|
+|clowdhaus/dogged-params|[#2](https://api.github.com/repos/clowdhaus/dogged-params/pulls/2)|feature/serverless-esbuild|bryantbiggs|22|
+|clowdhaus/dogged-params|[#3](https://api.github.com/repos/clowdhaus/dogged-params/pulls/3)|feature/serverless-webpack-with-esbuild|bryantbiggs|22|
+|clowdhaus/jupyterlab-purple|[#2](https://api.github.com/repos/clowdhaus/jupyterlab-purple/pulls/2)|dependabot/npm_and_yarn/node-fetch-2.6.1|dependabot[bot]|23|
 
 <!-- PR End -->
