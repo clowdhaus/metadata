@@ -121,6 +121,7 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 | --- | --- | --- | --- | --- |
 |clowdhaus/go-nogo|[#3](https://api.github.com/repos/clowdhaus/go-nogo/pulls/3)|dependabot/npm_and_yarn/node-fetch-2.6.1|dependabot[bot]|34|
 |clowdhaus/go-nogo|[#4](https://api.github.com/repos/clowdhaus/go-nogo/pulls/4)|dependabot/npm_and_yarn/actions/core-1.2.6|dependabot[bot]|15|
+|clowdhaus/go-nogo|[#5](https://github.com/clowdhaus/go-nogo/pull/5)|dependabot/npm_and_yarn/npm-user-validate-1.0.1|dependabot[bot]|0|
 |clowdhaus/dogged-params|[#2](https://api.github.com/repos/clowdhaus/dogged-params/pulls/2)|feature/serverless-esbuild|bryantbiggs|33|
 |clowdhaus/dogged-params|[#3](https://api.github.com/repos/clowdhaus/dogged-params/pulls/3)|feature/serverless-webpack-with-esbuild|bryantbiggs|33|
 |clowdhaus/jupyterlab-purple|[#2](https://api.github.com/repos/clowdhaus/jupyterlab-purple/pulls/2)|dependabot/npm_and_yarn/node-fetch-2.6.1|dependabot[bot]|34|
