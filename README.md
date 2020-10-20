@@ -119,7 +119,7 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 <!-- PR Start -->
 | Repository | PR | Branch | User | Age (days) |
 | --- | --- | --- | --- | --- |
-|clowdhaus/haus|[#4](https://github.com/clowdhaus/haus/pull/4)|dependabot/npm_and_yarn/object-path-0.11.5|dependabot[bot]|0|
+|clowdhaus/haus|[#4](https://api.github.com/repos/clowdhaus/haus/pulls/4)|dependabot/npm_and_yarn/object-path-0.11.5|dependabot[bot]|0|
 |clowdhaus/dogged-params|[#2](https://api.github.com/repos/clowdhaus/dogged-params/pulls/2)|feature/serverless-esbuild|bryantbiggs|37|
 |clowdhaus/dogged-params|[#3](https://api.github.com/repos/clowdhaus/dogged-params/pulls/3)|feature/serverless-webpack-with-esbuild|bryantbiggs|37|
 |clowdhaus/jupyterlab-purple|[#2](https://api.github.com/repos/clowdhaus/jupyterlab-purple/pulls/2)|dependabot/npm_and_yarn/node-fetch-2.6.1|dependabot[bot]|38|
