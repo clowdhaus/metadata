@@ -119,9 +119,10 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 <!-- PR Start -->
 | Repository | PR | Branch | User | Age (days) |
 | --- | --- | --- | --- | --- |
-|clowdhaus/dogged-params|[#2](https://api.github.com/repos/clowdhaus/dogged-params/pulls/2)|feature/serverless-esbuild|bryantbiggs|36|
-|clowdhaus/dogged-params|[#3](https://api.github.com/repos/clowdhaus/dogged-params/pulls/3)|feature/serverless-webpack-with-esbuild|bryantbiggs|36|
-|clowdhaus/jupyterlab-purple|[#2](https://api.github.com/repos/clowdhaus/jupyterlab-purple/pulls/2)|dependabot/npm_and_yarn/node-fetch-2.6.1|dependabot[bot]|37|
-|clowdhaus/bulwarks|[#94](https://api.github.com/repos/clowdhaus/bulwarks/pulls/94)|dependabot/npm_and_yarn/lambdas/npm-user-validate-1.0.1|dependabot[bot]|3|
+|clowdhaus/haus|[#4](https://github.com/clowdhaus/haus/pull/4)|dependabot/npm_and_yarn/object-path-0.11.5|dependabot[bot]|0|
+|clowdhaus/dogged-params|[#2](https://api.github.com/repos/clowdhaus/dogged-params/pulls/2)|feature/serverless-esbuild|bryantbiggs|37|
+|clowdhaus/dogged-params|[#3](https://api.github.com/repos/clowdhaus/dogged-params/pulls/3)|feature/serverless-webpack-with-esbuild|bryantbiggs|37|
+|clowdhaus/jupyterlab-purple|[#2](https://api.github.com/repos/clowdhaus/jupyterlab-purple/pulls/2)|dependabot/npm_and_yarn/node-fetch-2.6.1|dependabot[bot]|38|
+|clowdhaus/bulwarks|[#94](https://api.github.com/repos/clowdhaus/bulwarks/pulls/94)|dependabot/npm_and_yarn/lambdas/npm-user-validate-1.0.1|dependabot[bot]|4|
 
 <!-- PR End -->
