@@ -127,7 +127,6 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 |clowdhaus/dogged-params|[#2](https://api.github.com/repos/clowdhaus/dogged-params/pulls/2)|feature/serverless-esbuild|bryantbiggs|46|
 |clowdhaus/dogged-params|[#3](https://api.github.com/repos/clowdhaus/dogged-params/pulls/3)|feature/serverless-webpack-with-esbuild|bryantbiggs|46|
 |clowdhaus/jupyterlab-purple|[#2](https://api.github.com/repos/clowdhaus/jupyterlab-purple/pulls/2)|dependabot/npm_and_yarn/node-fetch-2.6.1|dependabot[bot]|47|
-|clowdhaus/scritchity-scratch|[#2](https://github.com/clowdhaus/scritchity-scratch/pull/2)|chore/enable-datadog-forwarder|bryantbiggs|0|
 |clowdhaus/bulwarks|[#94](https://api.github.com/repos/clowdhaus/bulwarks/pulls/94)|dependabot/npm_and_yarn/lambdas/npm-user-validate-1.0.1|dependabot[bot]|13|
 
 <!-- PR End -->
