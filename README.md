@@ -125,6 +125,7 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 |clowdhaus/alle-botz|[#2](https://api.github.com/repos/clowdhaus/alle-botz/pulls/2)|dependabot/pip/services/custodian/cryptography-3.2|dependabot[bot]|8|
 |clowdhaus/haus|[#4](https://api.github.com/repos/clowdhaus/haus/pulls/4)|dependabot/npm_and_yarn/object-path-0.11.5|dependabot[bot]|15|
 |clowdhaus/haus|[#5](https://github.com/clowdhaus/haus/pull/5)|dependabot/npm_and_yarn/bl-1.2.3|dependabot[bot]|0|
+|clowdhaus/compliance|[#14](https://github.com/clowdhaus/compliance/pull/14)|dependabot/npm_and_yarn/rules/bl-1.2.3|dependabot[bot]|0|
 |clowdhaus/dogged-params|[#2](https://api.github.com/repos/clowdhaus/dogged-params/pulls/2)|feature/serverless-esbuild|bryantbiggs|52|
 |clowdhaus/dogged-params|[#3](https://api.github.com/repos/clowdhaus/dogged-params/pulls/3)|feature/serverless-webpack-with-esbuild|bryantbiggs|52|
 |clowdhaus/serverless-scoped-iam-roles|[#2](https://github.com/clowdhaus/serverless-scoped-iam-roles/pull/2)|dependabot/npm_and_yarn/bl-1.2.3|dependabot[bot]|0|
