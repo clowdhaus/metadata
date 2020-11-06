@@ -143,7 +143,7 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 |clowdhaus/monoservazelscripterna|[#1](https://api.github.com/repos/clowdhaus/monoservazelscripterna/pulls/1)|dependabot/npm_and_yarn/bl-1.2.3|dependabot[bot]|1|
 |clowdhaus/serverless-scoped-iam-roles|[#2](https://api.github.com/repos/clowdhaus/serverless-scoped-iam-roles/pulls/2)|dependabot/npm_and_yarn/bl-1.2.3|dependabot[bot]|2|
 |clowdhaus/jupyterlab-purple|[#2](https://api.github.com/repos/clowdhaus/jupyterlab-purple/pulls/2)|dependabot/npm_and_yarn/node-fetch-2.6.1|dependabot[bot]|55|
-|clowdhaus/terraform-aws-datadog-forwarders|[#1](https://github.com/clowdhaus/terraform-aws-datadog-forwarders/pull/1)|feature/add-terraform-min-max-validation-flow|bryantbiggs|0|
+|clowdhaus/terraform-aws-datadog-forwarders|[#1](https://api.github.com/repos/clowdhaus/terraform-aws-datadog-forwarders/pulls/1)|feature/add-terraform-min-max-validation-flow|bryantbiggs|0|
 |clowdhaus/scanless|[#1](https://api.github.com/repos/clowdhaus/scanless/pulls/1)|dependabot/npm_and_yarn/bl-1.2.3|dependabot[bot]|2|
 |clowdhaus/bulwarks|[#94](https://api.github.com/repos/clowdhaus/bulwarks/pulls/94)|dependabot/npm_and_yarn/lambdas/npm-user-validate-1.0.1|dependabot[bot]|21|
 
