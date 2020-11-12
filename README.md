@@ -133,19 +133,19 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 <!-- PR Start -->
 | Repository | PR | Branch | User | Age (days) |
 | --- | --- | --- | --- | --- |
-|clowdhaus/alle-botz|[#1](https://api.github.com/repos/clowdhaus/alle-botz/pulls/1)|dependabot/pip/cryptography-3.2|dependabot[bot]|15|
-|clowdhaus/alle-botz|[#2](https://api.github.com/repos/clowdhaus/alle-botz/pulls/2)|dependabot/pip/services/custodian/cryptography-3.2|dependabot[bot]|15|
-|clowdhaus/haus|[#4](https://api.github.com/repos/clowdhaus/haus/pulls/4)|dependabot/npm_and_yarn/object-path-0.11.5|dependabot[bot]|22|
-|clowdhaus/haus|[#5](https://api.github.com/repos/clowdhaus/haus/pulls/5)|dependabot/npm_and_yarn/bl-1.2.3|dependabot[bot]|7|
-|clowdhaus/compliance|[#14](https://api.github.com/repos/clowdhaus/compliance/pulls/14)|dependabot/npm_and_yarn/rules/bl-1.2.3|dependabot[bot]|7|
-|clowdhaus/loom|[#1](https://api.github.com/repos/clowdhaus/loom/pulls/1)|dependabot/npm_and_yarn/bl-1.2.3|dependabot[bot]|7|
-|clowdhaus/dogged-params|[#2](https://api.github.com/repos/clowdhaus/dogged-params/pulls/2)|feature/serverless-esbuild|bryantbiggs|59|
-|clowdhaus/dogged-params|[#3](https://api.github.com/repos/clowdhaus/dogged-params/pulls/3)|feature/serverless-webpack-with-esbuild|bryantbiggs|59|
-|clowdhaus/monoservazelscripterna|[#1](https://api.github.com/repos/clowdhaus/monoservazelscripterna/pulls/1)|dependabot/npm_and_yarn/bl-1.2.3|dependabot[bot]|6|
-|clowdhaus/serverless-scoped-iam-roles|[#2](https://api.github.com/repos/clowdhaus/serverless-scoped-iam-roles/pulls/2)|dependabot/npm_and_yarn/bl-1.2.3|dependabot[bot]|7|
-|clowdhaus/jupyterlab-purple|[#2](https://api.github.com/repos/clowdhaus/jupyterlab-purple/pulls/2)|dependabot/npm_and_yarn/node-fetch-2.6.1|dependabot[bot]|60|
-|clowdhaus/terraform-aws-datadog-forwarders|[#1](https://api.github.com/repos/clowdhaus/terraform-aws-datadog-forwarders/pulls/1)|feature/add-terraform-min-max-validation-flow|bryantbiggs|5|
-|clowdhaus/scanless|[#1](https://api.github.com/repos/clowdhaus/scanless/pulls/1)|dependabot/npm_and_yarn/bl-1.2.3|dependabot[bot]|7|
-|clowdhaus/bulwarks|[#94](https://api.github.com/repos/clowdhaus/bulwarks/pulls/94)|dependabot/npm_and_yarn/lambdas/npm-user-validate-1.0.1|dependabot[bot]|26|
+|clowdhaus/alle-botz|[#1](https://api.github.com/repos/clowdhaus/alle-botz/pulls/1)|dependabot/pip/cryptography-3.2|dependabot[bot]|16|
+|clowdhaus/alle-botz|[#2](https://api.github.com/repos/clowdhaus/alle-botz/pulls/2)|dependabot/pip/services/custodian/cryptography-3.2|dependabot[bot]|16|
+|clowdhaus/haus|[#4](https://api.github.com/repos/clowdhaus/haus/pulls/4)|dependabot/npm_and_yarn/object-path-0.11.5|dependabot[bot]|23|
+|clowdhaus/haus|[#5](https://api.github.com/repos/clowdhaus/haus/pulls/5)|dependabot/npm_and_yarn/bl-1.2.3|dependabot[bot]|8|
+|clowdhaus/compliance|[#14](https://api.github.com/repos/clowdhaus/compliance/pulls/14)|dependabot/npm_and_yarn/rules/bl-1.2.3|dependabot[bot]|8|
+|clowdhaus/loom|[#1](https://api.github.com/repos/clowdhaus/loom/pulls/1)|dependabot/npm_and_yarn/bl-1.2.3|dependabot[bot]|8|
+|clowdhaus/dogged-params|[#2](https://api.github.com/repos/clowdhaus/dogged-params/pulls/2)|feature/serverless-esbuild|bryantbiggs|60|
+|clowdhaus/dogged-params|[#3](https://api.github.com/repos/clowdhaus/dogged-params/pulls/3)|feature/serverless-webpack-with-esbuild|bryantbiggs|60|
+|clowdhaus/monoservazelscripterna|[#1](https://api.github.com/repos/clowdhaus/monoservazelscripterna/pulls/1)|dependabot/npm_and_yarn/bl-1.2.3|dependabot[bot]|7|
+|clowdhaus/serverless-scoped-iam-roles|[#2](https://api.github.com/repos/clowdhaus/serverless-scoped-iam-roles/pulls/2)|dependabot/npm_and_yarn/bl-1.2.3|dependabot[bot]|8|
+|clowdhaus/jupyterlab-purple|[#2](https://api.github.com/repos/clowdhaus/jupyterlab-purple/pulls/2)|dependabot/npm_and_yarn/node-fetch-2.6.1|dependabot[bot]|61|
+|clowdhaus/terraform-aws-datadog-forwarders|[#1](https://api.github.com/repos/clowdhaus/terraform-aws-datadog-forwarders/pulls/1)|feature/add-terraform-min-max-validation-flow|bryantbiggs|6|
+|clowdhaus/scanless|[#1](https://api.github.com/repos/clowdhaus/scanless/pulls/1)|dependabot/npm_and_yarn/bl-1.2.3|dependabot[bot]|8|
+|clowdhaus/bulwarks|[#94](https://api.github.com/repos/clowdhaus/bulwarks/pulls/94)|dependabot/npm_and_yarn/lambdas/npm-user-validate-1.0.1|dependabot[bot]|27|
 
 <!-- PR End -->
