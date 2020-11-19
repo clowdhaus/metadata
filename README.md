@@ -147,7 +147,7 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 |clowdhaus/terraform-min-max|[#1](https://api.github.com/repos/clowdhaus/terraform-min-max/pulls/1)|dependabot/npm_and_yarn/semantic-release-17.2.3|dependabot[bot]|1|
 |clowdhaus/serverless-scoped-iam-roles|[#2](https://api.github.com/repos/clowdhaus/serverless-scoped-iam-roles/pulls/2)|dependabot/npm_and_yarn/bl-1.2.3|dependabot[bot]|15|
 |clowdhaus/jupyterlab-purple|[#2](https://api.github.com/repos/clowdhaus/jupyterlab-purple/pulls/2)|dependabot/npm_and_yarn/node-fetch-2.6.1|dependabot[bot]|68|
-|clowdhaus/compress|[#7](https://api.github.com/repos/clowdhaus/compress/pulls/7)|dependabot/npm_and_yarn/semantic-release-17.2.3|dependabot[bot]|1|
+|clowdhaus/compress|[#7](https://github.com/clowdhaus/compress/pull/7)|dependabot/npm_and_yarn/semantic-release-17.2.3|dependabot[bot]|1|
 |clowdhaus/setup-terraform|[#1](https://api.github.com/repos/clowdhaus/setup-terraform/pulls/1)|dependabot/npm_and_yarn/semantic-release-17.2.3|dependabot[bot]|1|
 |clowdhaus/terraform-aws-datadog-forwarders|[#1](https://api.github.com/repos/clowdhaus/terraform-aws-datadog-forwarders/pulls/1)|feature/add-terraform-min-max-validation-flow|bryantbiggs|13|
 |clowdhaus/watcher|[#11](https://api.github.com/repos/clowdhaus/watcher/pulls/11)|dependabot/npm_and_yarn/semantic-release-17.2.3|dependabot[bot]|1|
