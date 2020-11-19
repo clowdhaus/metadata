@@ -150,7 +150,7 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 |clowdhaus/compress|[#7](https://github.com/clowdhaus/compress/pull/7)|dependabot/npm_and_yarn/semantic-release-17.2.3|dependabot[bot]|1|
 |clowdhaus/setup-terraform|[#1](https://api.github.com/repos/clowdhaus/setup-terraform/pulls/1)|dependabot/npm_and_yarn/semantic-release-17.2.3|dependabot[bot]|1|
 |clowdhaus/terraform-aws-datadog-forwarders|[#1](https://api.github.com/repos/clowdhaus/terraform-aws-datadog-forwarders/pulls/1)|feature/add-terraform-min-max-validation-flow|bryantbiggs|13|
-|clowdhaus/watcher|[#11](https://api.github.com/repos/clowdhaus/watcher/pulls/11)|dependabot/npm_and_yarn/semantic-release-17.2.3|dependabot[bot]|1|
+|clowdhaus/watcher|[#11](https://github.com/clowdhaus/watcher/pull/11)|dependabot/npm_and_yarn/semantic-release-17.2.3|dependabot[bot]|1|
 |clowdhaus/scanless|[#1](https://api.github.com/repos/clowdhaus/scanless/pulls/1)|dependabot/npm_and_yarn/bl-1.2.3|dependabot[bot]|15|
 |clowdhaus/scanless|[#2](https://api.github.com/repos/clowdhaus/scanless/pulls/2)|dependabot/npm_and_yarn/dot-prop-4.2.1|dependabot[bot]|1|
 |clowdhaus/bulwarks|[#94](https://api.github.com/repos/clowdhaus/bulwarks/pulls/94)|dependabot/npm_and_yarn/lambdas/npm-user-validate-1.0.1|dependabot[bot]|34|
