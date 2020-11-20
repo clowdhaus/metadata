@@ -147,6 +147,5 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 |clowdhaus/scanless|[#2](https://api.github.com/repos/clowdhaus/scanless/pulls/2)|dependabot/npm_and_yarn/dot-prop-4.2.1|dependabot[bot]|2|
 |clowdhaus/bulwarks|[#94](https://api.github.com/repos/clowdhaus/bulwarks/pulls/94)|dependabot/npm_and_yarn/lambdas/npm-user-validate-1.0.1|dependabot[bot]|35|
 |clowdhaus/bulwarks|[#95](https://api.github.com/repos/clowdhaus/bulwarks/pulls/95)|dependabot/npm_and_yarn/lambdas/semantic-release-17.2.3|dependabot[bot]|2|
-|clowdhaus/jib-jab|[#3](https://github.com/clowdhaus/jib-jab/pull/3)|dependabot/npm_and_yarn/semantic-release-17.2.3|dependabot[bot]|2|
 
 <!-- PR End -->
