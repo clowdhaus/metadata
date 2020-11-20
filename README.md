@@ -135,7 +135,7 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 <!-- PR Start -->
 | Repository | PR | Branch | User | Age (days) |
 | --- | --- | --- | --- | --- |
-|clowdhaus/alle-botz|[#1](https://api.github.com/repos/clowdhaus/alle-botz/pulls/1)|dependabot/pip/cryptography-3.2|dependabot[bot]|24|
+|clowdhaus/alle-botz|[#1](https://github.com/clowdhaus/alle-botz/pull/1)|dependabot/pip/cryptography-3.2|dependabot[bot]|24|
 |clowdhaus/alle-botz|[#2](https://api.github.com/repos/clowdhaus/alle-botz/pulls/2)|dependabot/pip/services/custodian/cryptography-3.2|dependabot[bot]|24|
 |clowdhaus/compliance|[#14](https://api.github.com/repos/clowdhaus/compliance/pulls/14)|dependabot/npm_and_yarn/rules/bl-1.2.3|dependabot[bot]|16|
 |clowdhaus/loom|[#1](https://api.github.com/repos/clowdhaus/loom/pulls/1)|dependabot/npm_and_yarn/bl-1.2.3|dependabot[bot]|16|
