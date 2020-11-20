@@ -135,8 +135,8 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 <!-- PR Start -->
 | Repository | PR | Branch | User | Age (days) |
 | --- | --- | --- | --- | --- |
-|clowdhaus/compliance|[#14](https://api.github.com/repos/clowdhaus/compliance/pulls/14)|dependabot/npm_and_yarn/rules/bl-1.2.3|dependabot[bot]|16|
-|clowdhaus/loom|[#1](https://api.github.com/repos/clowdhaus/loom/pulls/1)|dependabot/npm_and_yarn/bl-1.2.3|dependabot[bot]|16|
+|clowdhaus/compliance|[#14](https://github.com/clowdhaus/compliance/pull/14)|dependabot/npm_and_yarn/rules/bl-1.2.3|dependabot[bot]|16|
+|clowdhaus/loom|[#1](https://github.com/clowdhaus/loom/pull/1)|dependabot/npm_and_yarn/bl-1.2.3|dependabot[bot]|16|
 |clowdhaus/dogged-params|[#2](https://api.github.com/repos/clowdhaus/dogged-params/pulls/2)|feature/serverless-esbuild|bryantbiggs|68|
 |clowdhaus/dogged-params|[#3](https://api.github.com/repos/clowdhaus/dogged-params/pulls/3)|feature/serverless-webpack-with-esbuild|bryantbiggs|68|
 |clowdhaus/monoservazelscripterna|[#1](https://api.github.com/repos/clowdhaus/monoservazelscripterna/pulls/1)|dependabot/npm_and_yarn/bl-1.2.3|dependabot[bot]|15|
