@@ -150,5 +150,6 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 |clowdhaus/terraform-aws-datadog-forwarders|[#1](https://api.github.com/repos/clowdhaus/terraform-aws-datadog-forwarders/pulls/1)|feature/add-terraform-min-max-validation-flow|bryantbiggs|36|
 |clowdhaus/sync|[#1](https://github.com/clowdhaus/sync/pull/1)|dependabot/npm_and_yarn/booking-frontend/dot-prop-4.2.1|dependabot[bot]|0|
 |clowdhaus/sync|[#2](https://github.com/clowdhaus/sync/pull/2)|dependabot/npm_and_yarn/booking-frontend/http-proxy-1.18.1|dependabot[bot]|0|
+|clowdhaus/sync|[#3](https://github.com/clowdhaus/sync/pull/3)|dependabot/npm_and_yarn/booking-frontend/node-forge-0.10.0|dependabot[bot]|0|
 
 <!-- PR End -->
