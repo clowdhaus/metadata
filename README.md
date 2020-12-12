@@ -140,8 +140,9 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 <!-- PR Start -->
 | Repository | PR | Branch | User | Age (days) |
 | --- | --- | --- | --- | --- |
-|clowdhaus/monoservazelscripterna|[#1](https://api.github.com/repos/clowdhaus/monoservazelscripterna/pulls/1)|dependabot/npm_and_yarn/bl-1.2.3|dependabot[bot]|36|
-|clowdhaus/serverless-scoped-iam-roles|[#2](https://api.github.com/repos/clowdhaus/serverless-scoped-iam-roles/pulls/2)|dependabot/npm_and_yarn/bl-1.2.3|dependabot[bot]|37|
-|clowdhaus/terraform-aws-datadog-forwarders|[#1](https://api.github.com/repos/clowdhaus/terraform-aws-datadog-forwarders/pulls/1)|feature/add-terraform-min-max-validation-flow|bryantbiggs|35|
+|clowdhaus/aws-github-actions|[#10](https://github.com/clowdhaus/aws-github-actions/pull/10)|dependabot/npm_and_yarn/ini-1.3.8|dependabot[bot]|0|
+|clowdhaus/monoservazelscripterna|[#1](https://api.github.com/repos/clowdhaus/monoservazelscripterna/pulls/1)|dependabot/npm_and_yarn/bl-1.2.3|dependabot[bot]|37|
+|clowdhaus/serverless-scoped-iam-roles|[#2](https://api.github.com/repos/clowdhaus/serverless-scoped-iam-roles/pulls/2)|dependabot/npm_and_yarn/bl-1.2.3|dependabot[bot]|38|
+|clowdhaus/terraform-aws-datadog-forwarders|[#1](https://api.github.com/repos/clowdhaus/terraform-aws-datadog-forwarders/pulls/1)|feature/add-terraform-min-max-validation-flow|bryantbiggs|36|
 
 <!-- PR End -->
