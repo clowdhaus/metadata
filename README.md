@@ -156,5 +156,6 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 |clowdhaus/sync|[#6](https://github.com/clowdhaus/sync/pull/6)|dependabot/npm_and_yarn/adl-actions/actions/core-1.2.6|dependabot[bot]|0|
 |clowdhaus/sync|[#7](https://github.com/clowdhaus/sync/pull/7)|dependabot/npm_and_yarn/adl-actions/ini-1.3.8|dependabot[bot]|0|
 |clowdhaus/sync|[#8](https://github.com/clowdhaus/sync/pull/8)|dependabot/npm_and_yarn/alle-botz/ini-1.3.8|dependabot[bot]|0|
+|clowdhaus/sync|[#9](https://github.com/clowdhaus/sync/pull/9)|dependabot/pip/alle-botz/cryptography-3.2|dependabot[bot]|0|
 
 <!-- PR End -->
