@@ -152,5 +152,6 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 |clowdhaus/sync|[#2](https://github.com/clowdhaus/sync/pull/2)|dependabot/npm_and_yarn/booking-frontend/http-proxy-1.18.1|dependabot[bot]|0|
 |clowdhaus/sync|[#3](https://github.com/clowdhaus/sync/pull/3)|dependabot/npm_and_yarn/booking-frontend/node-forge-0.10.0|dependabot[bot]|0|
 |clowdhaus/sync|[#4](https://github.com/clowdhaus/sync/pull/4)|dependabot/npm_and_yarn/booking-frontend/serialize-javascript-4.0.0|dependabot[bot]|0|
+|clowdhaus/sync|[#5](https://github.com/clowdhaus/sync/pull/5)|dependabot/npm_and_yarn/booking-frontend/yargs-parser-13.1.2|dependabot[bot]|0|
 
 <!-- PR End -->
