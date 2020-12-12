@@ -146,6 +146,7 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 |clowdhaus/loom|[#2](https://github.com/clowdhaus/loom/pull/2)|dependabot/npm_and_yarn/ini-1.3.8|dependabot[bot]|0|
 |clowdhaus/monoservazelscripterna|[#1](https://api.github.com/repos/clowdhaus/monoservazelscripterna/pulls/1)|dependabot/npm_and_yarn/bl-1.2.3|dependabot[bot]|37|
 |clowdhaus/serverless-scoped-iam-roles|[#2](https://api.github.com/repos/clowdhaus/serverless-scoped-iam-roles/pulls/2)|dependabot/npm_and_yarn/bl-1.2.3|dependabot[bot]|38|
+|clowdhaus/serverless-scoped-iam-roles|[#3](https://github.com/clowdhaus/serverless-scoped-iam-roles/pull/3)|dependabot/npm_and_yarn/ini-1.3.8|dependabot[bot]|0|
 |clowdhaus/terraform-aws-datadog-forwarders|[#1](https://api.github.com/repos/clowdhaus/terraform-aws-datadog-forwarders/pulls/1)|feature/add-terraform-min-max-validation-flow|bryantbiggs|36|
 |clowdhaus/jib-jab|[#4](https://github.com/clowdhaus/jib-jab/pull/4)|dependabot/npm_and_yarn/ini-1.3.8|dependabot[bot]|0|
 
