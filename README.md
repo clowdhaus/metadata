@@ -142,7 +142,7 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 | --- | --- | --- | --- | --- |
 |clowdhaus/alle-botz|[#3](https://github.com/clowdhaus/alle-botz/pull/3)|dependabot/npm_and_yarn/ini-1.3.8|dependabot[bot]|0|
 |clowdhaus/aws-github-actions|[#10](https://github.com/clowdhaus/aws-github-actions/pull/10)|dependabot/npm_and_yarn/ini-1.3.8|dependabot[bot]|1|
-|clowdhaus/monoservazelscripterna|[#1](https://api.github.com/repos/clowdhaus/monoservazelscripterna/pulls/1)|dependabot/npm_and_yarn/bl-1.2.3|dependabot[bot]|38|
+|clowdhaus/monoservazelscripterna|[#1](https://github.com/clowdhaus/monoservazelscripterna/pull/1)|dependabot/npm_and_yarn/bl-1.2.3|dependabot[bot]|38|
 |clowdhaus/monoservazelscripterna|[#2](https://github.com/clowdhaus/monoservazelscripterna/pull/2)|dependabot/npm_and_yarn/ini-1.3.8|dependabot[bot]|0|
 |clowdhaus/serverless-scoped-iam-roles|[#2](https://api.github.com/repos/clowdhaus/serverless-scoped-iam-roles/pulls/2)|dependabot/npm_and_yarn/bl-1.2.3|dependabot[bot]|39|
 |clowdhaus/serverless-scoped-iam-roles|[#3](https://github.com/clowdhaus/serverless-scoped-iam-roles/pull/3)|dependabot/npm_and_yarn/ini-1.3.8|dependabot[bot]|1|
