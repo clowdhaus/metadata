@@ -152,14 +152,5 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 |clowdhaus/serverless-scoped-iam-roles|[#2](https://api.github.com/repos/clowdhaus/serverless-scoped-iam-roles/pulls/2)|dependabot/npm_and_yarn/bl-1.2.3|dependabot[bot]|39|
 |clowdhaus/serverless-scoped-iam-roles|[#3](https://github.com/clowdhaus/serverless-scoped-iam-roles/pull/3)|dependabot/npm_and_yarn/ini-1.3.8|dependabot[bot]|1|
 |clowdhaus/terraform-aws-datadog-forwarders|[#1](https://api.github.com/repos/clowdhaus/terraform-aws-datadog-forwarders/pulls/1)|feature/add-terraform-min-max-validation-flow|bryantbiggs|37|
-|clowdhaus/sync|[#1](https://github.com/clowdhaus/sync/pull/1)|dependabot/npm_and_yarn/booking-frontend/dot-prop-4.2.1|dependabot[bot]|1|
-|clowdhaus/sync|[#2](https://github.com/clowdhaus/sync/pull/2)|dependabot/npm_and_yarn/booking-frontend/http-proxy-1.18.1|dependabot[bot]|1|
-|clowdhaus/sync|[#3](https://github.com/clowdhaus/sync/pull/3)|dependabot/npm_and_yarn/booking-frontend/node-forge-0.10.0|dependabot[bot]|1|
-|clowdhaus/sync|[#4](https://github.com/clowdhaus/sync/pull/4)|dependabot/npm_and_yarn/booking-frontend/serialize-javascript-4.0.0|dependabot[bot]|1|
-|clowdhaus/sync|[#5](https://github.com/clowdhaus/sync/pull/5)|dependabot/npm_and_yarn/booking-frontend/yargs-parser-13.1.2|dependabot[bot]|1|
-|clowdhaus/sync|[#6](https://github.com/clowdhaus/sync/pull/6)|dependabot/npm_and_yarn/adl-actions/actions/core-1.2.6|dependabot[bot]|1|
-|clowdhaus/sync|[#7](https://github.com/clowdhaus/sync/pull/7)|dependabot/npm_and_yarn/adl-actions/ini-1.3.8|dependabot[bot]|1|
-|clowdhaus/sync|[#8](https://github.com/clowdhaus/sync/pull/8)|dependabot/npm_and_yarn/alle-botz/ini-1.3.8|dependabot[bot]|1|
-|clowdhaus/sync|[#9](https://github.com/clowdhaus/sync/pull/9)|dependabot/pip/alle-botz/cryptography-3.2|dependabot[bot]|1|
 
 <!-- PR End -->
