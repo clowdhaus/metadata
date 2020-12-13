@@ -140,6 +140,7 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 <!-- PR Start -->
 | Repository | PR | Branch | User | Age (days) |
 | --- | --- | --- | --- | --- |
+|clowdhaus/alle-botz|[#3](https://github.com/clowdhaus/alle-botz/pull/3)|dependabot/npm_and_yarn/ini-1.3.8|dependabot[bot]|0|
 |clowdhaus/haus|[#6](https://github.com/clowdhaus/haus/pull/6)|dependabot/npm_and_yarn/ini-1.3.8|dependabot[bot]|1|
 |clowdhaus/aws-github-actions|[#10](https://github.com/clowdhaus/aws-github-actions/pull/10)|dependabot/npm_and_yarn/ini-1.3.8|dependabot[bot]|1|
 |clowdhaus/compliance|[#15](https://github.com/clowdhaus/compliance/pull/15)|dependabot/npm_and_yarn/rules/ini-1.3.8|dependabot[bot]|1|
