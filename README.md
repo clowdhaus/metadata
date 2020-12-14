@@ -140,8 +140,8 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 <!-- PR Start -->
 | Repository | PR | Branch | User | Age (days) |
 | --- | --- | --- | --- | --- |
-|clowdhaus/alle-botz|[#3](https://github.com/clowdhaus/alle-botz/pull/3)|dependabot/npm_and_yarn/ini-1.3.8|dependabot[bot]|0|
-|clowdhaus/aws-github-actions|[#10](https://github.com/clowdhaus/aws-github-actions/pull/10)|dependabot/npm_and_yarn/ini-1.3.8|dependabot[bot]|1|
-|clowdhaus/terraform-aws-datadog-forwarders|[#1](https://api.github.com/repos/clowdhaus/terraform-aws-datadog-forwarders/pulls/1)|feature/add-terraform-min-max-validation-flow|bryantbiggs|37|
+|clowdhaus/alle-botz|[#3](https://github.com/clowdhaus/alle-botz/pull/3)|dependabot/npm_and_yarn/ini-1.3.8|dependabot[bot]|1|
+|clowdhaus/aws-github-actions|[#10](https://github.com/clowdhaus/aws-github-actions/pull/10)|dependabot/npm_and_yarn/ini-1.3.8|dependabot[bot]|2|
+|clowdhaus/terraform-aws-datadog-forwarders|[#1](https://api.github.com/repos/clowdhaus/terraform-aws-datadog-forwarders/pulls/1)|feature/add-terraform-min-max-validation-flow|bryantbiggs|38|
 
 <!-- PR End -->
