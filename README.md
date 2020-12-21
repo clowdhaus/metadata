@@ -148,6 +148,6 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 | Repository | PR | Branch | User | Age (days) |
 | --- | --- | --- | --- | --- |
 |clowdhaus/aws-github-actions|[#10](https://api.github.com/repos/clowdhaus/aws-github-actions/pulls/10)|dependabot/npm_and_yarn/ini-1.3.8|dependabot[bot]|9|
-|clowdhaus/terraform-aws-datadog-forwarders|[#1](https://api.github.com/repos/clowdhaus/terraform-aws-datadog-forwarders/pulls/1)|feature/add-terraform-min-max-validation-flow|bryantbiggs|45|
+|clowdhaus/terraform-aws-datadog-forwarders|[#1](https://github.com/clowdhaus/terraform-aws-datadog-forwarders/pull/1)|feature/add-terraform-min-max-validation-flow|bryantbiggs|45|
 
 <!-- PR End -->
