@@ -154,6 +154,5 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 |clowdhaus/candy|[#1](https://api.github.com/repos/clowdhaus/candy/pulls/1)|dependabot/npm_and_yarn/node-notifier-8.0.1|dependabot[bot]|1|
 |clowdhaus/serverless-scoped-iam-roles|[#4](https://api.github.com/repos/clowdhaus/serverless-scoped-iam-roles/pulls/4)|dependabot/npm_and_yarn/node-notifier-8.0.1|dependabot[bot]|1|
 |clowdhaus/scritchity-scratch|[#4](https://api.github.com/repos/clowdhaus/scritchity-scratch/pulls/4)|chore/test|bryantbiggs|2|
-|clowdhaus/sync|[#10](https://api.github.com/repos/clowdhaus/sync/pulls/10)|dependabot/npm_and_yarn/booking-frontend/node-notifier-8.0.1|dependabot[bot]|1|
 
 <!-- PR End -->
