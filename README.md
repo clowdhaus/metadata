@@ -149,10 +149,11 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 <!-- PR Start -->
 | Repository | PR | Branch | User | Age (days) |
 | --- | --- | --- | --- | --- |
-|clowdhaus/serverless-plugin-deno|[#1](https://api.github.com/repos/clowdhaus/serverless-plugin-deno/pulls/1)|dependabot/npm_and_yarn/node-notifier-8.0.1|dependabot[bot]|3|
-|clowdhaus/nx-pulumi-ts-template|[#2](https://api.github.com/repos/clowdhaus/nx-pulumi-ts-template/pulls/2)|dependabot/npm_and_yarn/node-notifier-8.0.1|dependabot[bot]|3|
-|clowdhaus/candy|[#1](https://api.github.com/repos/clowdhaus/candy/pulls/1)|dependabot/npm_and_yarn/node-notifier-8.0.1|dependabot[bot]|3|
-|clowdhaus/serverless-scoped-iam-roles|[#4](https://api.github.com/repos/clowdhaus/serverless-scoped-iam-roles/pulls/4)|dependabot/npm_and_yarn/node-notifier-8.0.1|dependabot[bot]|3|
-|clowdhaus/scritchity-scratch|[#4](https://api.github.com/repos/clowdhaus/scritchity-scratch/pulls/4)|chore/test|bryantbiggs|4|
+|clowdhaus/haus|[#7](https://github.com/clowdhaus/haus/pull/7)|feature/lighthouse-ci-test|bryantbiggs|0|
+|clowdhaus/serverless-plugin-deno|[#1](https://api.github.com/repos/clowdhaus/serverless-plugin-deno/pulls/1)|dependabot/npm_and_yarn/node-notifier-8.0.1|dependabot[bot]|5|
+|clowdhaus/nx-pulumi-ts-template|[#2](https://api.github.com/repos/clowdhaus/nx-pulumi-ts-template/pulls/2)|dependabot/npm_and_yarn/node-notifier-8.0.1|dependabot[bot]|5|
+|clowdhaus/candy|[#1](https://api.github.com/repos/clowdhaus/candy/pulls/1)|dependabot/npm_and_yarn/node-notifier-8.0.1|dependabot[bot]|5|
+|clowdhaus/serverless-scoped-iam-roles|[#4](https://api.github.com/repos/clowdhaus/serverless-scoped-iam-roles/pulls/4)|dependabot/npm_and_yarn/node-notifier-8.0.1|dependabot[bot]|5|
+|clowdhaus/scritchity-scratch|[#4](https://api.github.com/repos/clowdhaus/scritchity-scratch/pulls/4)|chore/test|bryantbiggs|6|
 
 <!-- PR End -->
