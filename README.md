@@ -149,7 +149,6 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 <!-- PR Start -->
 | Repository | PR | Branch | User | Age (days) |
 | --- | --- | --- | --- | --- |
-|clowdhaus/haus|[#9](https://github.com/clowdhaus/haus/pull/9)|feature/switch-to-sapper|bryantbiggs|0|
 |clowdhaus/serverless-plugin-deno|[#1](https://api.github.com/repos/clowdhaus/serverless-plugin-deno/pulls/1)|dependabot/npm_and_yarn/node-notifier-8.0.1|dependabot[bot]|5|
 |clowdhaus/nx-pulumi-ts-template|[#2](https://api.github.com/repos/clowdhaus/nx-pulumi-ts-template/pulls/2)|dependabot/npm_and_yarn/node-notifier-8.0.1|dependabot[bot]|5|
 |clowdhaus/candy|[#1](https://api.github.com/repos/clowdhaus/candy/pulls/1)|dependabot/npm_and_yarn/node-notifier-8.0.1|dependabot[bot]|5|
