@@ -153,6 +153,5 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 |clowdhaus/nx-pulumi-ts-template|[#2](https://api.github.com/repos/clowdhaus/nx-pulumi-ts-template/pulls/2)|dependabot/npm_and_yarn/node-notifier-8.0.1|dependabot[bot]|6|
 |clowdhaus/candy|[#1](https://api.github.com/repos/clowdhaus/candy/pulls/1)|dependabot/npm_and_yarn/node-notifier-8.0.1|dependabot[bot]|6|
 |clowdhaus/serverless-scoped-iam-roles|[#4](https://api.github.com/repos/clowdhaus/serverless-scoped-iam-roles/pulls/4)|dependabot/npm_and_yarn/node-notifier-8.0.1|dependabot[bot]|6|
-|clowdhaus/scritchity-scratch|[#4](https://api.github.com/repos/clowdhaus/scritchity-scratch/pulls/4)|chore/test|bryantbiggs|7|
 
 <!-- PR End -->
