@@ -54,6 +54,15 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
     </ul>
 </details>
     
+#### `terraform-aws-rds-proxy` : [v1.0.0](https://github.com/clowdhaus/terraform-aws-rds-proxy/releases/tag/v1.0.0)
+
+<details>
+<summary>All Versions</summary>
+    <ul>
+        <li><a href="https://github.com/clowdhaus/terraform-aws-rds-proxy/releases/tag/v1.0.0">v1.0.0</a></li>
+    </ul>
+</details>
+    
 #### `dreft` : [v1.0.2](https://github.com/clowdhaus/dreft/releases/tag/v1.0.2)
 
 <details>
