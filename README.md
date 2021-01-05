@@ -123,12 +123,13 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
     </ul>
 </details>
     
-#### `watcher` : [v1.5.0](https://github.com/clowdhaus/watcher/releases/tag/v1.5.0)
+#### `watcher` : [v1.6.0](https://github.com/clowdhaus/watcher/releases/tag/v1.6.0)
 
 <details>
 <summary>All Versions</summary>
     <ul>
-        <li><a href="https://github.com/clowdhaus/watcher/releases/tag/v1.5.0">v1.5.0</a></li>
+        <li><a href="https://github.com/clowdhaus/watcher/releases/tag/v1.6.0">v1.6.0</a></li>
+	<li><a href="https://github.com/clowdhaus/watcher/releases/tag/v1.5.0">v1.5.0</a></li>
 	<li><a href="https://github.com/clowdhaus/watcher/releases/tag/v1.4.0">v1.4.0</a></li>
 	<li><a href="https://github.com/clowdhaus/watcher/releases/tag/v1.3.0">v1.3.0</a></li>
 	<li><a href="https://github.com/clowdhaus/watcher/releases/tag/v1.2.0">v1.2.0</a></li>
