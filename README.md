@@ -158,9 +158,10 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 <!-- PR Start -->
 | Repository | PR | Branch | User | Age (days) |
 | --- | --- | --- | --- | --- |
-|clowdhaus/serverless-plugin-deno|[#1](https://api.github.com/repos/clowdhaus/serverless-plugin-deno/pulls/1)|dependabot/npm_and_yarn/node-notifier-8.0.1|dependabot[bot]|13|
-|clowdhaus/nx-pulumi-ts-template|[#2](https://api.github.com/repos/clowdhaus/nx-pulumi-ts-template/pulls/2)|dependabot/npm_and_yarn/node-notifier-8.0.1|dependabot[bot]|13|
-|clowdhaus/candy|[#1](https://api.github.com/repos/clowdhaus/candy/pulls/1)|dependabot/npm_and_yarn/node-notifier-8.0.1|dependabot[bot]|13|
-|clowdhaus/serverless-scoped-iam-roles|[#4](https://api.github.com/repos/clowdhaus/serverless-scoped-iam-roles/pulls/4)|dependabot/npm_and_yarn/node-notifier-8.0.1|dependabot[bot]|13|
+|clowdhaus/serverless-plugin-deno|[#1](https://api.github.com/repos/clowdhaus/serverless-plugin-deno/pulls/1)|dependabot/npm_and_yarn/node-notifier-8.0.1|dependabot[bot]|14|
+|clowdhaus/nx-pulumi-ts-template|[#2](https://api.github.com/repos/clowdhaus/nx-pulumi-ts-template/pulls/2)|dependabot/npm_and_yarn/node-notifier-8.0.1|dependabot[bot]|14|
+|clowdhaus/terraform-aws-rds-proxy|[#1](https://github.com/clowdhaus/terraform-aws-rds-proxy/pull/1)|chore/ci-ci|bryantbiggs|0|
+|clowdhaus/candy|[#1](https://api.github.com/repos/clowdhaus/candy/pulls/1)|dependabot/npm_and_yarn/node-notifier-8.0.1|dependabot[bot]|14|
+|clowdhaus/serverless-scoped-iam-roles|[#4](https://api.github.com/repos/clowdhaus/serverless-scoped-iam-roles/pulls/4)|dependabot/npm_and_yarn/node-notifier-8.0.1|dependabot[bot]|14|
 
 <!-- PR End -->
