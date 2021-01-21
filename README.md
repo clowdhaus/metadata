@@ -160,9 +160,10 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 <!-- PR Start -->
 | Repository | PR | Branch | User | Age (days) |
 | --- | --- | --- | --- | --- |
-|clowdhaus/serverless-plugin-deno|[#1](https://api.github.com/repos/clowdhaus/serverless-plugin-deno/pulls/1)|dependabot/npm_and_yarn/node-notifier-8.0.1|dependabot[bot]|29|
-|clowdhaus/nx-pulumi-ts-template|[#2](https://api.github.com/repos/clowdhaus/nx-pulumi-ts-template/pulls/2)|dependabot/npm_and_yarn/node-notifier-8.0.1|dependabot[bot]|29|
-|clowdhaus/candy|[#1](https://api.github.com/repos/clowdhaus/candy/pulls/1)|dependabot/npm_and_yarn/node-notifier-8.0.1|dependabot[bot]|29|
-|clowdhaus/serverless-scoped-iam-roles|[#4](https://api.github.com/repos/clowdhaus/serverless-scoped-iam-roles/pulls/4)|dependabot/npm_and_yarn/node-notifier-8.0.1|dependabot[bot]|29|
+|clowdhaus/serverless-plugin-deno|[#1](https://api.github.com/repos/clowdhaus/serverless-plugin-deno/pulls/1)|dependabot/npm_and_yarn/node-notifier-8.0.1|dependabot[bot]|30|
+|clowdhaus/nx-pulumi-ts-template|[#2](https://api.github.com/repos/clowdhaus/nx-pulumi-ts-template/pulls/2)|dependabot/npm_and_yarn/node-notifier-8.0.1|dependabot[bot]|30|
+|clowdhaus/candy|[#1](https://api.github.com/repos/clowdhaus/candy/pulls/1)|dependabot/npm_and_yarn/node-notifier-8.0.1|dependabot[bot]|30|
+|clowdhaus/serverless-scoped-iam-roles|[#4](https://api.github.com/repos/clowdhaus/serverless-scoped-iam-roles/pulls/4)|dependabot/npm_and_yarn/node-notifier-8.0.1|dependabot[bot]|30|
+|clowdhaus/watcher|[#13](https://github.com/clowdhaus/watcher/pull/13)|snyk-fix-b4b5dbcb161d4b82a8ed8f334d2aac7b|bryantbiggs|0|
 
 <!-- PR End -->
