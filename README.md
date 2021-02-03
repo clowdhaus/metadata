@@ -85,12 +85,13 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
     </ul>
 </details>
     
-#### `terraform-aws-datadog-forwarders` : [v2.3.0](https://github.com/clowdhaus/terraform-aws-datadog-forwarders/releases/tag/v2.3.0)
+#### `terraform-aws-datadog-forwarders` : [v2.4.0](https://github.com/clowdhaus/terraform-aws-datadog-forwarders/releases/tag/v2.4.0)
 
 <details>
 <summary>All Versions</summary>
     <ul>
-        <li><a href="https://github.com/clowdhaus/terraform-aws-datadog-forwarders/releases/tag/v2.3.0">v2.3.0</a></li>
+        <li><a href="https://github.com/clowdhaus/terraform-aws-datadog-forwarders/releases/tag/v2.4.0">v2.4.0</a></li>
+	<li><a href="https://github.com/clowdhaus/terraform-aws-datadog-forwarders/releases/tag/v2.3.0">v2.3.0</a></li>
 	<li><a href="https://github.com/clowdhaus/terraform-aws-datadog-forwarders/releases/tag/v2.2.0">v2.2.0</a></li>
 	<li><a href="https://github.com/clowdhaus/terraform-aws-datadog-forwarders/releases/tag/v2.1.0">v2.1.0</a></li>
 	<li><a href="https://github.com/clowdhaus/terraform-aws-datadog-forwarders/releases/tag/v2.0.0">v2.0.0</a></li>
