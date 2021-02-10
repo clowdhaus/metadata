@@ -160,6 +160,5 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 |clowdhaus/amped|[#1](https://api.github.com/repos/clowdhaus/amped/pulls/1)|dependabot/pip/infra/event_proxy/cryptography-3.3.2|dependabot[bot]|0|
 |clowdhaus/nx-pulumi-ts-template|[#2](https://api.github.com/repos/clowdhaus/nx-pulumi-ts-template/pulls/2)|dependabot/npm_and_yarn/node-notifier-8.0.1|dependabot[bot]|50|
 |clowdhaus/sync|[#11](https://api.github.com/repos/clowdhaus/sync/pulls/11)|dependabot/pip/alle-botz/layers/sdk/cryptography-3.3.2|dependabot[bot]|0|
-|clowdhaus/watcher|[#14](https://github.com/clowdhaus/watcher/pull/14)|dependabot/pip/cryptography-3.3.2|dependabot[bot]|0|
 
 <!-- PR End -->
