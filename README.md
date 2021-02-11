@@ -156,6 +156,6 @@ Data collected by [`watcher`](https://github.com/clowdhaus/watcher) for the [clo
 <!-- PR Start -->
 | Repository | PR | Branch | User | Age (days) |
 | --- | --- | --- | --- | --- |
-|clowdhaus/alle-botz|[#4](https://api.github.com/repos/clowdhaus/alle-botz/pulls/4)|dependabot/pip/cryptography-3.3.2|dependabot[bot]|1|
+|clowdhaus/alle-botz|[#4](https://github.com/clowdhaus/alle-botz/pull/4)|dependabot/pip/cryptography-3.3.2|dependabot[bot]|1|
 
 <!-- PR End -->
